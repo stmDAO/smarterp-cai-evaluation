@@ -1,6 +1,6 @@
 [
     {
-        "text": "Concrete technology has witnessed significant advancements in recent years, leading to the development of innovative mixtures with improved properties.",
+        "text": "According to the Academic Editor of the July 2021 Technology Journal of the Thammasat University in Thailand, concrete technology has witnessed significant advancements in recent years, leading to the development of innovative mixtures with improved properties.",
         "tokens": [
             {
                 "recent years": "DATE"
@@ -8,7 +8,7 @@
         ]
     },
     {
-        "text": "One such example is the utilisation of a ternary mix, consisting of cementitious materials, supplementary cementitious materials, and superplasticizers, which has shown promising results.",
+        "text": "One such example is the utilisation of a ternary mix, consisting of cementitious materials, supplementary cementitious materials or SCMs, and superplasticizers, which has shown promising results, as shown in the Beam Results Table included in the study on concrete carried out in January 1974 by the Zagazig University in Egypt.",
         "tokens": [
             {
                 "One": "CARDINAL"
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "text": "Certainly! The utilisation of a ternary mix, which combines cementitious materials, supplementary cementitious materials, and superplasticizers, has shown promising results in enhancing the performance of concrete.",
+        "text": "The said utilisation of a ternary mix, which combines cementitious materials, supplementary cementitious materials, and superplasticizers, has also shown promising results in enhancing the performance of concrete, and not only the performance of Portland cement.",
         "tokens": [
             {}
         ]
