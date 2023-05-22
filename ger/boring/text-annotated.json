@@ -1,0 +1,341 @@
+[
+    {
+        "text": "Tunnelvortriebsmaschinen sind hochspezialisierte Ger\u00e4te, die f\u00fcr den Bau von Tunneln in verschiedenen geologischen Bedingungen eingesetzt werden.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Diese Maschinen spielen eine entscheidende Rolle bei der effizienten und sicheren Errichtung von Tunneln f\u00fcr verschiedene Zwecke wie Verkehr, Wasser- und Abwasserinfrastruktur sowie unterirdische Versorgungsleitungen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Eine wichtige Eigenschaft von Tunnelvortriebsmaschinen ist ihre F\u00e4higkeit zur Firstverschiebung, d.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "h.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "zur Vorschubgeschwindigkeit w\u00e4hrend des Vortriebs.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Eine hohe Vortriebsgeschwindigkeit erm\u00f6glicht einen schnelleren Baufortschritt und reduziert die Zeit, die f\u00fcr den Tunnelbau ben\u00f6tigt wird.",
+        "tokens": [
+            {
+                "Zeit": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Hier sind einige zus\u00e4tzliche Informationen:  Durchschnittliche Vortriebsgeschwindigkeit: Tunnelvortriebsmaschinen k\u00f6nnen je nach den geologischen Bedingungen und anderen Faktoren unterschiedliche Vortriebsgeschwindigkeiten aufweisen.",
+        "tokens": [
+            {
+                "Vortriebsgeschwindigkeiten": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Eine typische durchschnittliche Vortriebsgeschwindigkeit kann beispielsweise zwischen 20 und 30 Metern pro Tag liegen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Es wurden beeindruckende Vortriebsgeschwindigkeiten von Tunnelvortriebsmaschinen erreicht.",
+        "tokens": [
+            {
+                "Vortriebsgeschwindigkeiten": "MISC",
+                "Tunnelvortriebsmaschinen": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Zum Beispiel erreichte der Tunnelbohrer Bertha beim Bau des SR 99 Tunnels in Seattle eine Rekordvortriebsgeschwindigkeit von bis zu 35 Metern pro Tag.",
+        "tokens": [
+            {
+                "Tunnelbohrer": "ORG",
+                "Bertha": "PER",
+                "SR 99 Tunnels": "LOC",
+                "Seattle": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Eine hohe Vortriebsgeschwindigkeit f\u00fchrt zu signifikanten Zeiteinsparungen beim Tunnelbau.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Durch eine Steigerung der Vortriebsgeschwindigkeit um beispielsweise 25% kann die Bauzeit um mehrere Monate verk\u00fcrzt werden, abh\u00e4ngig von der Gesamtl\u00e4nge des Tunnels.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Eine hohe Vortriebsgeschwindigkeit erm\u00f6glicht es auch, den Projektablauf effizienter zu gestalten.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die schnellere Fertigstellung eines Tunnels kann dazu beitragen, den Gesamtplan f\u00fcr den Infrastrukturbau einzuhalten und m\u00f6gliche Verz\u00f6gerungen zu vermeiden.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Trennfl\u00e4chenorientierung ist ein weiterer wesentlicher Aspekt beim Einsatz von Tunnelvortriebsmaschinen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Sie bezieht sich auf die Ausrichtung der Schnittfl\u00e4che des Tunnels in Bezug auf die geologischen Schichten.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Eine optimale Trennfl\u00e4chenorientierung tr\u00e4gt zur Stabilit\u00e4t des Tunnels bei und minimiert das Risiko von geotechnischen Problemen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Bei der Planung und dem Betrieb von Tunnelvortriebsmaschinen werden Scherfestigkeiten ber\u00fccksichtigt, um die Belastbarkeit der Maschine und die Stabilit\u00e4t des umgebenden Gesteins zu bewerten.",
+        "tokens": [
+            {
+                "Tunnelvortriebsmaschinen": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Die Kenntnis der Scherfestigkeiten der Gesteinsschichten ist wichtig, um die erforderlichen Vortriebsparameter und die richtige Auswahl der Schneidwerkzeuge zu bestimmen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Eigenschaften bindiger B\u00f6den spielen ebenfalls eine Rolle bei der Leistung von Tunnelvortriebsmaschinen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ein niedriger Wert von 0,025 deutet auf geringe Bindigkeit hin, was den Vortrieb erleichtert und den Verschlei\u00df der Schneidwerkzeuge verringert.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Zugfestigkeit des Gesteins ist ein wichtiger Parameter, der die Festigkeit und Integrit\u00e4t des Tunnels beeinflusst.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ein hoher Wert von 99% weist auf eine hohe Zugfestigkeit hin, was die Stabilit\u00e4t des Tunnels erh\u00f6ht und das Risiko von Rissen und Sch\u00e4den verringert.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Kiesverf\u00fcllung spielt eine wichtige Rolle beim Vortrieb von Tunnelvortriebsmaschinen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Sie dient als St\u00fctzmaterial, das den Tunnel nach dem Vortrieb unterst\u00fctzt und die Stabilit\u00e4t gew\u00e4hrleistet.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "F\u00f6rdereinrichtungen sind f\u00fcr den Abtransport des ausgebrochenen Materials aus dem Tunnel verantwortlich.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Eine hohe Anzahl von 13.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "450 F\u00f6rdereinrichtungen deutet auf eine effiziente Materialbew\u00e4ltigung hin, was den Baufortschritt beschleunigt.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Adh\u00e4sionsspannungen sind die Haftkr\u00e4fte zwischen dem Tunnelvortriebsmaschine und dem umgebenden Gestein.",
+        "tokens": [
+            {
+                "Adh\u00e4sionsspannungen": "LOC",
+                "Haftkr\u00e4fte": "LOC",
+                "Tunnelvortriebsmaschine": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Eine genaue Kenntnis dieser Spannungen ist wichtig, um die Interaktion zwischen der Maschine und dem Gestein zu verstehen und m\u00f6gliche Probleme zu minimieren.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Baugrundverh\u00e4ltnisse sind entscheidend f\u00fcr den Erfolg des Tunnelbaus.",
+        "tokens": [
+            {
+                "Baugrundverh\u00e4ltnisse": "LOC",
+                "Tunnelbaus": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Eine umfassende Untersuchung der geotechnischen Bedingungen im Jahr 2030 erm\u00f6glicht eine fundierte Planung und Auswahl geeigneter Tunnelvortriebsmaschinen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Zugkr\u00e4fte, die auf die Maschine wirken, m\u00fcssen ber\u00fccksichtigt werden, um die Struktur der Tunnelvortriebsmaschine und ihre Komponenten ausreichend zu dimensionieren.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Bergwasserzutritte k\u00f6nnen w\u00e4hrend des Tunnelbaus auftreten und stellen eine Herausforderung dar.",
+        "tokens": [
+            {
+                "Bergwasserzutritte": "LOC",
+                "Tunnelbaus": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Die Bew\u00e4ltigung von 44.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "300 Bergwasserzutritten erfordert eine effektive Wasserhaltung und Abdichtungstechniken.",
+        "tokens": [
+            {
+                "300 Bergwasserzutritten": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Erddruckschilde werden h\u00e4ufig bei Tunnelbauarbeiten verwendet.",
+        "tokens": [
+            {
+                "Erddruckschilde": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Die hohe Anzahl von 50 Milliarden Erddruckschilden zeigt den Umfang und die Bedeutung dieser Technologie f\u00fcr den Tunnelbau.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Durchf\u00fchrung von 300 Millionen Euro Konuszugversuchen erm\u00f6glicht eine genaue Charakterisierung des Gebirges und tr\u00e4gt zur Bewertung der Stabilit\u00e4t des Tunnels bei.",
+        "tokens": [
+            {
+                "Euro Konuszugversuchen": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Der Ringspalt zwischen der Tunnelvortriebsmaschine und dem umgebenden Gestein spielt eine Rolle bei der Abdichtung und Vermeidung von Wassereintritt.",
+        "tokens": [
+            {
+                "Ringspalt": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Die Scherfestigkeitsparameter sind wichtige Kennwerte zur Bewertung der Stabilit\u00e4t des Gesteins w\u00e4hrend des Vortriebs.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Schneidrad\u00f6ffnungen sind entscheidend f\u00fcr den Abtrag des Gesteins und den Vortrieb der Tunnelvortriebsmaschine.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Elektrokinetische Verfahren k\u00f6nnen zur Bodenstabilisierung und -verbesserung eingesetzt werden und tragen zur Effizienz des Vortriebs bei.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Konizit\u00e4t bezieht sich auf die Verj\u00fcngung des Tunnels.",
+        "tokens": [
+            {
+                "Konizit\u00e4t": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Sie spielt eine Rolle bei der Stabilit\u00e4t und der Verteilung der Kr\u00e4fte im Tunnel.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Band\u00fcbergabestation ist eine Vorrichtung zur effizienten und kontinuierlichen \u00dcbertragung der Tunnelvortriebsmaschine auf neue Tunnelabschnitte.",
+        "tokens": [
+            {
+                "Band\u00fcbergabestation": "ORG",
+                "Tunnelabschnitte": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Der Reibungswinkel ist ein wichtiger Parameter f\u00fcr die Untersuchung der Reibungseigenschaften des Gesteins w\u00e4hrend des Vortriebs.",
+        "tokens": [
+            {
+                "Reibungswinkel": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Anisotrope Gebirgseigenschaften weisen auf eine Richtungsabh\u00e4ngigkeit der mechanischen Eigenschaften des Gesteins hin und m\u00fcssen bei der Auslegung von Tunnelvortriebsmaschinen ber\u00fccksichtigt werden.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die genannten Begriffe und Zahlen verdeutlichen die vielf\u00e4ltigen Aspekte und Anforderungen im Zusammenhang mit Tunnelvortriebsmaschinen und dem Bau von Tunneln.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Es ist wichtig, dass alle diese Faktoren sorgf\u00e4ltig untersucht und ber\u00fccksichtigt werden, um einen effizienten und sicheren Tunnelbau zu gew\u00e4hrleisten.",
+        "tokens": [
+            {}
+        ]
+    }
+]

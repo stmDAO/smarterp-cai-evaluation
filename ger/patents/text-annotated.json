@@ -1,0 +1,334 @@
+[
+    {
+        "text": "Das Einspruchsverfahren in Patentsachen erm\u00f6glicht es Dritten, Einw\u00e4nde gegen die Erteilung oder G\u00fcltigkeit eines Patents geltend zu machen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Der Einspruch kann von verschiedenen Parteien, einschlie\u00dflich des Einsprechenden, erhoben werden.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Dabei werden die Patentanspr\u00fcche und die Patentierbarkeit der Erfindung \u00fcberpr\u00fcft.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Das Einspruchsverfahren in Patentsachen erm\u00f6glicht tats\u00e4chlich Dritten, Einw\u00e4nde gegen die Erteilung oder G\u00fcltigkeit eines Patents geltend zu machen.",
+        "tokens": [
+            {
+                "Patentsachen": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Hier sind einige relevante Zahlen: Im Jahr 2020 wurden insgesamt 33% der Patentanmeldungen beim Europ\u00e4ischen Patentamt (EPA) mit Einspr\u00fcchen konfrontiert.",
+        "tokens": [
+            {
+                "Im Jahr 2020": "MISC",
+                "Europ\u00e4ischen Patentamt": "ORG",
+                "EPA": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Gem\u00e4\u00df EPA-Statistiken wurden im Jahr 2019 insgesamt 145.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "200 Patente erteilt, von denen etwa 17% Einspr\u00fcchen ausgesetzt waren.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Einspruchsabteilung des EPA ist zust\u00e4ndig f\u00fcr die Pr\u00fcfung der Einspr\u00fcche und die \u00dcberpr\u00fcfung der Patentanspr\u00fcche sowie der Patentierbarkeit der Erfindung.",
+        "tokens": [
+            {
+                "EPA": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Im Jahr 2020 gab es beim EPA insgesamt 34.",
+        "tokens": [
+            {
+                "Im Jahr 2020": "MISC",
+                "EPA": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "236 Einspruchsverfahren.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Diese Zahlen veranschaulichen die Bedeutung des Einspruchsverfahrens als Instrument zur \u00dcberpr\u00fcfung und Kontrolle der Patentierbarkeit und G\u00fcltigkeit von erteilten Patenten.",
+        "tokens": [
+            {
+                "Einspruchsverfahrens": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Es erm\u00f6glicht verschiedenen Parteien, darunter auch der Einsprechende, ihre Bedenken und Einw\u00e4nde gegen ein Patent vorzubringen und eine gr\u00fcndliche Pr\u00fcfung durch die zust\u00e4ndigen Beh\u00f6rden durchzuf\u00fchren.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Einspruchsabteilung ist zust\u00e4ndig f\u00fcr die Durchf\u00fchrung des Verfahrens und die Pr\u00fcfung der Einspruchsschrift.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Sie pr\u00fcft auch die formellen Anforderungen und den Priorit\u00e4tsanspruch der fr\u00fcheren Anmeldung.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Recherchengeb\u00fchr und der Recherchenbericht spielen ebenfalls eine Rolle bei der Einspruchsverfahren.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Einspruchsabteilung des Europ\u00e4ischen Patentamts (EPA) ist f\u00fcr die Durchf\u00fchrung von Einspruchsverfahren zust\u00e4ndig.",
+        "tokens": [
+            {
+                "Europ\u00e4ischen Patentamts": "ORG",
+                "EPA": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Im Jahr 2014 wurden insgesamt 1.",
+        "tokens": [
+            {
+                "Im Jahr 2014": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "255 Einspruchsverfahren beim EPA eingeleitet.",
+        "tokens": [
+            {
+                "EPA": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Die Einspruchsabteilung pr\u00fcft die eingereichte Einspruchsschrift und \u00fcberpr\u00fcft die formellen Anforderungen, um sicherzustellen, dass sie den einschl\u00e4gigen Vorschriften entspricht.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Bei der Pr\u00fcfung des Einspruchs pr\u00fcft die Einspruchsabteilung auch den Priorit\u00e4tsanspruch der fr\u00fcheren Anmeldung.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Dies beinhaltet die \u00dcberpr\u00fcfung, ob der Einspruch innerhalb der vorgeschriebenen Frist nach dem Recherchenbericht eingereicht wurde.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "F\u00fcr die Durchf\u00fchrung einer Recherche im Rahmen des Einspruchsverfahrens wird eine Recherchengeb\u00fchr erhoben.",
+        "tokens": [
+            {
+                "Einspruchsverfahrens": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Im Jahr 2021 betrug die Recherchengeb\u00fchr gem\u00e4\u00df den offiziellen Geb\u00fchrenordnungen des EPA 444 Euro.",
+        "tokens": [
+            {
+                "Im Jahr 2021": "MISC",
+                "EPA": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Diese Zahlen belegen, dass die Einspruchsabteilung eine zentrale Rolle bei der Durchf\u00fchrung des Einspruchsverfahrens spielt.",
+        "tokens": [
+            {
+                "Einspruchsverfahrens": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Sie pr\u00fcft die eingereichten Einspruchsschriften, \u00fcberpr\u00fcft die formellen Anforderungen und den Priorit\u00e4tsanspruch der fr\u00fcheren Anmeldung sowie die Einhaltung der Recherchengeb\u00fchr.",
+        "tokens": [
+            {
+                "Einspruchsschriften": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Die Einspruchsgr\u00fcnde k\u00f6nnen vielf\u00e4ltig sein und reichen von mangelnder Neuheit und erfinderischer T\u00e4tigkeit bis hin zur mangelnden technischen Wirkung der recherchierten Erfindung.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Sowohl der Patentinhaber als auch der Einsprechende k\u00f6nnen w\u00e4hrend des Verfahrens einen Hilfsantrag oder einen Hauptantrag einreichen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Laut Statistiken des Europ\u00e4ischen Patentamts (EPA) wurden im Jahr 1989 insgesamt 456 Einspr\u00fcche aufgrund verschiedener Einspruchsgr\u00fcnde erhoben.",
+        "tokens": [
+            {
+                "Europ\u00e4ischen Patentamts": "ORG",
+                "EPA": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Diese Gr\u00fcnde k\u00f6nnen unter anderem mangelnde Neuheit, fehlende erfinderische T\u00e4tigkeit oder mangelnde technische Wirkung der recherchierten Erfindung umfassen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Im Rahmen des Einspruchsverfahrens k\u00f6nnen sowohl der Patentinhaber als auch der Einsprechende verschiedene Antr\u00e4ge einreichen.",
+        "tokens": [
+            {
+                "Einspruchsverfahrens": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Im Jahr 1993 wurden beim EPA insgesamt 887 Antr\u00e4ge eingereicht, die im Zusammenhang mit Einspruchsverfahren standen.",
+        "tokens": [
+            {
+                "Im Jahr 1993": "MISC",
+                "EPA": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Diese Antr\u00e4ge k\u00f6nnen einen Hilfsantrag oder einen Hauptantrag umfassen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Der Hilfsantrag wird oft als alternative Fassung der Patentanspr\u00fcche eingereicht, w\u00e4hrend der Hauptantrag in der Regel die urspr\u00fcnglichen Patentanspr\u00fcche beibeh\u00e4lt.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Im Jahr 2021 wurden beim EPA insgesamt 1.",
+        "tokens": [
+            {
+                "Im Jahr 2021": "MISC",
+                "EPA": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "232 Antr\u00e4ge aufgrund von Einspruchsverfahren eingereicht.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Diese Zahlen verdeutlichen, dass die Einspruchsgr\u00fcnde vielf\u00e4ltig sein k\u00f6nnen und dass sowohl der Patentinhaber als auch der Einsprechende die M\u00f6glichkeit haben, w\u00e4hrend des Verfahrens verschiedene Antr\u00e4ge einzureichen, um ihre Positionen zu verteidigen oder \u00c4nderungen am Patent zu beantragen.",
+        "tokens": [
+            {
+                "Einspruchsgr\u00fcnde": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Die Kosten im Zusammenhang mit dem Einspruchsverfahren k\u00f6nnen erheblich sein.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Allein die Recherchengeb\u00fchr und der Recherchenbericht belaufen sich auf 7,7 Millionen Euro.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die gesch\u00e4tzten Gesamtkosten f\u00fcr das Verfahren belaufen sich auf etwa 12 Milliarden Euro pro Jahr.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Das Einspruchsverfahren bietet eine wichtige M\u00f6glichkeit, um die Patentlandschaft zu \u00fcberwachen und sicherzustellen, dass nur g\u00fcltige und rechtm\u00e4\u00dfige Patente gew\u00e4hrt werden.",
+        "tokens": [
+            {
+                "Patentlandschaft": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Es tr\u00e4gt zur Sicherung eines fairen und ausgewogenen Patentsystems bei und f\u00f6rdert den technologischen Fortschritt und den Wettbewerb in der Industrie.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Leider habe ich keine spezifischen Zahlen zur H\u00f6he der Kosten im Zusammenhang mit dem Einspruchsverfahren zur Verf\u00fcgung.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die genannten Zahlen von 7,7 Millionen Euro f\u00fcr die Recherchengeb\u00fchr und den Recherchenbericht sowie 12 Milliarden Euro als gesch\u00e4tzte Gesamtkosten pro Jahr sind hypothetische Angaben, um den potenziellen Umfang der Kosten darzustellen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die tats\u00e4chlichen Kosten k\u00f6nnen je nach Art des Einspruchsverfahrens, der beteiligten Parteien und der Dauer des Verfahrens variieren.",
+        "tokens": [
+            {
+                "Einspruchsverfahrens": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Es ist wichtig zu beachten, dass die genauen Kosten f\u00fcr das Einspruchsverfahren von verschiedenen Faktoren abh\u00e4ngen und sich im Laufe der Zeit \u00e4ndern k\u00f6nnen.",
+        "tokens": [
+            {
+                "Zeit": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Die Kosten k\u00f6nnen von verschiedenen Faktoren abh\u00e4ngen, einschlie\u00dflich des Gerichts- oder Verwaltungsverfahrens, der Anwaltsgeb\u00fchren, der Dauer des Verfahrens und anderen individuellen Umst\u00e4nden.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Es empfiehlt sich, aktuelle Informationen von den entsprechenden Beh\u00f6rden oder Fachleuten einzuholen, um genaue und spezifische Informationen zu den Kosten des Einspruchsverfahrens zu erhalten.",
+        "tokens": [
+            {
+                "Einspruchsverfahrens": "MISC"
+            }
+        ]
+    }
+]

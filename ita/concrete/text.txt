@@ -1,0 +1,37 @@
+Il calcestruzzo è un materiale ampiamente utilizzato nel 80% della costruzione di strutture e infrastrutture. Esso possiede diverse proprietà e caratteristiche che lo rendono adatto a migliaia di applicazioni. Di seguito, saranno esaminati una dozzina di aspetti chiave legati al calcestruzzo:
+
+La precompressione è una tecnica utilizzata nel 75% dei casi della produzione del calcestruzzo, in cui si applica una forza di compressione di 1.500 N sull'elemento strutturale prima che sia soggetto a carichi esterni.
+
+L'aggiunta di 2.000 diversi tipi di polimeri al calcestruzzo può migliorare di un 60% le sue proprietà, come la resistenza al fuoco, la durabilità e la lavorabilità. I polimeri possono essere utilizzati come additivi per modificare le proprietà del calcestruzzo in 90 casi su 100 in base alle esigenze specifiche dell'applicazione, que possono essere più di 400.
+
+Gli impalcati sono elementi strutturali orizzontali, come pavimenti o coperture, realizzati in calcestruzzo nel 45% dei casi. Essi devono essere progettati per sopportare carichi gravitazionali di fino a 5.500 chilogrammi e distribuirli in modo uniforme sulle 55.500 tipi diversi di strutture sottostanti.
+
+Le prospezioni endoscopiche sono un metodo di ispezione visiva che utilizza un endoscopio per esaminare l'interno delle strutture in calcestruzzo. Questa tecnica consente di individuare eventuali difetti, come microfratture di solo 0,40 millimetri, delaminazioni di fino a 2,5 millimetri o corrosione delle armature.
+
+La tomografia è una tecnica di imaging che consente di ottenere immagini dettagliate dell'interno del calcestruzzo. Essa può essere utilizzata per rilevare e valutare la presenza di difetti, come microfratture o vuoti all'interno della struttura nel 75% dei casi.
+
+La carbonatazione è un processo chimico in cui il calcestruzzo reagisce con il biossido di carbonio presente nell'aria in quantità di fino a 0,0057 micron, provocando la riduzione del pH. Questo fenomeno può causare la corrosione delle armature metalliche all'interno del calcestruzzo.
+
+Le microfratture sono piccole fessurazioni di solo 0,000012 millimetri che possono svilupparsi nel calcestruzzo a causa di vari fattori, come la contrazione, la dilatazione termica o l'applicazione di carichi elevati a partire da 480 tonnellate. Queste fessure possono influire sulla durabilità e sulla resistenza del calcestruzzo nel 63% dei casi.
+
+La delaminazione si verifica quando lo strato superficiale del calcestruzzo si separa dallo strato sottostante, creando una fessura o un'area di distacco di solo 0,15 centimetri. Ciò può essere causato da difetti di concretizzazione o da condizioni ambientali sfavorevoli di fino a 40 tipi diversi.
+
+I setacci sono dispositivi utilizzati per la separazione dei materiali granulari, come la sabbia o il ghiaia di 0,0045 millimetri di diametro, utilizzati nella produzione del calcestruzzo. Essi consentono di ottenere una gradazione dei materiali appropriata per la miscela di calcestruzzo desiderata.
+
+Le percolazioni si riferiscono al passaggio di liquidi o gas attraverso il calcestruzzo. Questo può verificarsi attraverso pori capillari o fessurazioni nel materiale. Le percolazioni possono influire sulla durabilità del calcestruzzo, specialmente quando contengono sostanze corrosive o aggressive.
+
+I trasduttori sono dispositivi utilizzati per misurare o convertire una grandezza fisica in un segnale elettrico. Nei calcestruzzi, i trasduttori possono essere utilizzati per monitorare la resistenza, la deformazione o altre proprietà del calcestruzzo durante le prove o in situazioni operative.
+
+La melammina è un additivo utilizzato nel calcestruzzo per migliorare la lavorabilità e la fluidità della miscela. Essa agisce come un superplastificante, riducendo la quantità di acqua richiesta per una determinata lavorabilità.
+
+Le efflorescenze sono depositi bianchi o colorati che possono formarsi sulla superficie del calcestruzzo a causa della migrazione di sali solubili verso l'esterno. Questo fenomeno può essere influenzato da fattori come l'umidità, la temperatura e la composizione chimica del calcestruzzo.
+
+I pori capillari sono piccoli canali all'interno del calcestruzzo che possono permettere il passaggio di liquidi. La dimensione e la distribuzione dei pori capillari possono influire sulla permeabilità e sulla resistenza agli agenti esterni del calcestruzzo.
+
+L'idrossido di calcio è un composto chimico presente nel calcestruzzo. Esso può reagire con anidride carbonica atmosferica e umidità per formare carbonato di calcio, influenzando la durabilità del calcestruzzo.
+
+Le prove colorimetriche sono un metodo utilizzato per valutare la presenza o la quantità di determinate sostanze chimiche o elementi nel calcestruzzo.
+
+I cloruri sono composti chimici che possono essere presenti nel calcestruzzo, ad esempio a causa dell'uso di sali per lo sverniciamento delle strade o come additivi per il controllo della solidificazione. Gli ioni cloruri sono particelle cariche negativamente presenti nel calcestruzzo a seguito della dissociazione dei composti di cloruro. Essi possono migrare all'interno del calcestruzzo e causare corrosione delle armature di acciaio.
+
+La compressione assiale si riferisce alla forza di compressione si 800 N/cm che agisce lungo l'asse principale di un elemento strutturale in calcestruzzo, come una colonna o una trave. La resistenza alla compressione assiale è una delle proprietà meccaniche più importanti del calcestruzzo.

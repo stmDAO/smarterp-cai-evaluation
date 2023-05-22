@@ -1,0 +1,242 @@
+[
+    {
+        "text": "Le macchine per lo scavo meccanizzato dei tunnel, note anche come TBM (Tunnel Boring Machines), sono strumenti avanzati utilizzati per scavare tunnel in modo efficiente e preciso.",
+        "tokens": [
+            {
+                "Tunnel Boring Machines": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Queste macchine combinano diverse tecnologie e principi di ingegneria per consentire lo scavo rapido e sicuro dei tunnel.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Esploriamo alcune delle parole chiave associate alle TBM:  L'estrusione triassiale si riferisce a un processo mediante il quale il terreno viene spinto in avanti dalla testa di taglio della TBM.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Questo processo avviene grazie all'applicazione di fino a 4.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "500 N/cm di pressione tramite gli organi di scavo.",
+        "tokens": [
+            {
+                "500 N": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Nelle TBM, un anodo \u00e8 un componente che serve a fornire una corrente elettrica per fino a 25 scopi specifici, come la protezione catodica per prevenire la corrosione del 80% delle parti metalliche.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Il piano adimensionale \u00e8 uno strumento di analisi utilizzato per valutare il comportamento e le prestazioni della TBM durante lo scavo del tunnel.",
+        "tokens": [
+            {
+                "TBM": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Questo piano considera fino a due dozzine di grandezze geometriche, idrauliche e meccaniche, consentendo una valutazione dettagliata della macchina.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Il caolino \u00e8 un minerale argilloso che pu\u00f2 essere utilizzato come componente nella preparazione di fluidi di scavo utilizzati nelle TBM nel 95% dei casi.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Il caolino contribuisce alla lubrificazione e al mantenimento della stabilit\u00e0 del terreno durante uno scavo medio di 45 chilometri.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La bentonite \u00e8 un'altra argilla utilizzata nel 58% dei fluidi di scavo delle TBM.",
+        "tokens": [
+            {
+                "TBM": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Essa possiede propriet\u00e0 di una gonfiabilit\u00e0 e gelificazione di 48,5 centimetri quadrati, che contribuiscono alla tenuta delle pareti del tunnel e al controllo del cedimento del terreno nel 30% dei casi.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "I liquidi interstiziali sono i liquidi presenti negli spazi porosi o interstiziali di 0,40 millimetri di diametro all'interno del terreno.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Nei tunnel scavati con le TBM, la gestione e il controllo di questi liquidi sono importanti nel 55% dei casi per mantenere una stabilit\u00e0 del 45% del terreno circostante.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La conducibilit\u00e0 idraulica \u00e8 una misura della capacit\u00e0 di un terreno di trasmettere il flusso di acqua.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Durante lo scavo del tunnel, \u00e8 fondamentale valutare la conducibilit\u00e0 idraulica del terreno circostante per prevenire eventuali infiltrazioni o instabilit\u00e0, che possono arrivare ai 98 litri per centimetro quadrato.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "I minerali argillosi sono costituenti comuni dei terreni in un 38% dei casi e possono influenzare le propriet\u00e0 e il comportamento del terreno durante lo scavo del tunnel.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Una laccolite \u00e8 una forma di intrusione magmatica a forma di lente che si sviluppa tra strati di rocce.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La presenza di pi\u00f9 di 89 milioni di laccoliti per metro quadrato pu\u00f2 influenzare la complessit\u00e0 e la stratificazione del terreno in un 25% durante lo scavo del tunnel.",
+        "tokens": [
+            {
+                "laccoliti": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "I terreni volcanici effusivi si formano a seguito dell'eruzione di materiale lavico, come la lava basaltica.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Questi terreni possono presentare caratteristiche geomeccaniche specifiche che devono essere prese in considerazione durante il processo di scavo.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Le lineazioni tettoniche sono le direzioni preferenziali di fratturazione o di deformazione nel terreno, spesso causate da forze tettoniche.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Il termine \"litologici\" si riferisce alle caratteristiche e alla composizione delle rocce che costituiscono il terreno.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La conoscenza delle propriet\u00e0 litologiche \u00e8 essenziale per pianificare e gestire lo scavo del tunnel in modo sicuro ed efficiente.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "L'etanolo \u00e8 un solvente chimico utilizzato in alcuni processi di pulizia e manutenzione delle TBM.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La risposta tensodeformativa si riferisce al comportamento del terreno sotto l'azione delle tensioni e delle deformazioni indotte dalla TBM.",
+        "tokens": [
+            {
+                "TBM": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "I geofoni sono strumenti utilizzati per misurare le vibrazioni e le onde sismiche nel terreno durante lo scavo del tunnel.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La scala colorimetrica \u00e8 uno strumento utilizzato per valutare visivamente il colore e la composizione dei materiali, inclusi i campioni di terreno.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Nella valutazione dei terreni durante lo scavo del tunnel, la scala colorimetrica pu\u00f2 fornire indicazioni sulle propriet\u00e0 e la composizione del terreno.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La spaziatura si riferisce alla distanza tra due elementi strutturali, come i sostegni utilizzati all'interno del tunnel.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La grana fine si riferisce alle dimensioni delle particelle del terreno.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "I terreni con una maggioranza di particelle di grana fine possono comportarsi in modo diverso durante lo scavo del tunnel.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Il legame costitutivo elastico \u00e8 una rappresentazione matematica del comportamento elastico dei materiali, inclusi i terreni.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Questo legame descrive la relazione tra lo sforzo applicato e la deformazione risultante nel terreno.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Un impianto idroelettrico \u00e8 un sistema che sfrutta l'energia cinetica o potenziale dell'acqua per produrre energia elettrica.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Durante lo scavo di un tunnel, la presenza di impianti idroelettrici nelle vicinanze pu\u00f2 richiedere una pianificazione e una gestione specifica per evitare interferenze o problemi di stabilit\u00e0.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Le curve madri sono curve che rappresentano la relazione tra diverse variabili nel processo di scavo del tunnel.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Queste curve possono essere utilizzate per prevedere e ottimizzare le prestazioni della TBM e del processo di scavo nel complesso.",
+        "tokens": [
+            {}
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+The patent opposition procedure is an important mechanism in intellectual property law, allowing interested parties to challenge the validity or grant of a patent. In this procedure, an absent party, which refers to a party not participating in the proceedings, may submit opposition within a specified timeframe, typically 48 months from the publication of the patent. The total oppositions filed in a particular jurisdiction in 2019 were 14,755, indicating the significance of this procedure in addressing potential issues with patents.
+
+During the opposition process, accelerated prosecution may be requested by either party to expedite the proceedings. Accidental disclosure of confidential information can occur during the opposition, and measures are in place to handle such situations to protect sensitive data. The instances of accidental disclosure encountered during the procedure were 456.
+
+Accelerated prosecution refers to a request made by either party involved in the patent opposition procedure to expedite the progress of the proceedings. When a party submits a request for accelerated prosecution, it means they are seeking to speed up the timeline and resolution of the opposition case.
+
+The reasons for requesting accelerated prosecution can vary. For instance, the party opposing the patent may want a faster resolution to address potential infringements or mitigate any negative impacts on their business. On the other hand, the patent holder may request accelerated prosecution to promptly resolve the opposition and solidify their patent rights.
+
+By requesting accelerated prosecution, the parties express their interest in advancing the proceedings more rapidly than the standard timeline allows. This request can lead to expedited deadlines for submitting evidence, presenting arguments, and making decisions related to the opposition case.
+
+The decision to grant accelerated prosecution rests with the competent national authority overseeing the opposition procedure. The authority will assess the request based on various factors, such as the complexity of the case, the urgency of resolving the opposition, and the availability of resources to handle an accelerated timeline.
+
+If the request for accelerated prosecution is approved, it can significantly reduce the overall duration of the opposition procedure, allowing the parties to reach a resolution in a shorter time frame. This can be advantageous for both the parties involved and the patent system as a whole, as it promotes efficiency and timely resolution of disputes related to patent rights.
+
+Statistics show that approximately 28% of opposition cases result in the patent being maintained as granted, while 47% lead to amendments or limitations being made to the patent claims. Appealability is an important aspect of the opposition procedure, allowing parties to challenge the decisions made by the competent national authority.
+
+Throughout the opposition process, clarification requests and claim groupings may be utilised to address any ambiguities or complexity in the patent claims. The total number of clarification requests filed in 2020 were 1,232 in 84 claim groups.
+
+An appeal fee is required for parties seeking to challenge the decisions made during the opposition. An appeal patent, which is a revised version of the original patent, may be submitted during the appeal stage. Biological inventions, chemical inventions, and broad claims are examples of the types of patents that can be subject to opposition.
+
+Clear allowability refers to the determination that a patent claim is valid and complies with the legal requirements. The concept of common general knowledge is crucial in assessing the inventiveness and novelty of the patent claims. The competent national authority, responsible for overseeing the opposition procedure, ensures that the process is conducted fairly and according to established rules and regulations.
+
+A competent patentee, the holder of the patent being opposed, can defend their invention throughout the opposition process. A complete appeal involves challenging the decisions made during the opposition before a higher authority. The average duration, in years, of a complete appeal in a specific jurisdiction is 0.32.
+
+Additionally, during the opposition procedure, parties may request a compliant version of the patent or engage in comprehensive redrafting to address any identified issues until 20 May 2023.
+
+A concurrent request may arise when multiple parties file opposition against the same patent, leading to consolidated proceedings. Finally, the opposition procedure provides an opportunity for interested parties to contest the validity or grant of a patent, ensuring the integrity of the patent system.

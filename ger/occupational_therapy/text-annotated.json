@@ -1,0 +1,313 @@
+[
+    {
+        "text": "Besch\u00e4ftigungstherapie, auch bekannt als Ergotherapie, ist eine wichtige Disziplin in der medizinischen Versorgung.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "In Deutschland gibt es etwa 174.",
+        "tokens": [
+            {
+                "Deutschland": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "200 Heilmittelerbringer, darunter Ergotherapeuten, die in der Lage sind, eine breite Palette von Patienten zu unterst\u00fctzen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ergotherapeuten erhalten ihre Ausbildung an Berufsfachschulen und k\u00f6nnen in verschiedenen Bereichen arbeiten, einschlie\u00dflich der Palliativversorgung.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Laut Daten gibt es in Deutschland etwa 94.",
+        "tokens": [
+            {
+                "Deutschland": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "456 Ergotherapeuten.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ergotherapie kann auch mit anderen medizinischen Fachgebieten wie Logop\u00e4die und Di\u00e4tetik zusammenarbeiten, um die besten Ergebnisse f\u00fcr die Patienten zu erzielen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ergotherapeuten arbeiten oft in interdisziplin\u00e4ren Teams mit anderen Gesundheitsfachkr\u00e4ften wie Logop\u00e4den und Di\u00e4tassistenten zusammen, um die bestm\u00f6gliche Versorgung der Patienten zu gew\u00e4hrleisten.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Zum Beispiel kann eine Person mit einer neurologischen Erkrankung wie Schlaganfall von einer Kombination aus Ergotherapie zur Wiederherstellung der motorischen F\u00e4higkeiten, Logop\u00e4die zur Verbesserung der Sprach- und Kommunikationsf\u00e4higkeiten und Di\u00e4tetik zur Unterst\u00fctzung der Ern\u00e4hrung profitieren.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Zusammenarbeit von Ergotherapeuten mit anderen medizinischen Fachgebieten ist ein wichtiger Teil der Rehabilitation und unterst\u00fctzt die ganzheitliche Behandlung der Patienten.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Konkrete Zahlen zur Zusammenarbeit von Ergotherapeuten mit anderen Fachgebieten liegen mir jedoch nicht vor, da dies stark von der spezifischen Einrichtung und dem Behandlungsbedarf abh\u00e4ngt.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Logop\u00e4dieausbildung ist ein wichtiger Bestandteil der Ergotherapie, da Sprache und Kommunikation f\u00fcr viele Patienten von entscheidender Bedeutung sind.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Laut der KiGGS Welle, einer gro\u00dfen bev\u00f6lkerungsbezogenen Studie, haben etwa 17% der Kinder in Deutschland Sprachprobleme.",
+        "tokens": [
+            {
+                "KiGGS Welle": "ORG",
+                "Deutschland": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Die KiGGS Welle ist eine repr\u00e4sentative Bev\u00f6lkerungsstudie, die von 2014 bis 2017 in Deutschland durchgef\u00fchrt wurde.",
+        "tokens": [
+            {
+                "KiGGS Welle": "ORG",
+                "Deutschland": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Die Studie untersuchte die Gesundheit von Kindern und Jugendlichen im Alter von 0 bis 17 Jahren und wurde vom Robert Koch-Institut durchgef\u00fchrt.",
+        "tokens": [
+            {
+                "Robert Koch-Institut": "PER"
+            }
+        ]
+    },
+    {
+        "text": "In Bezug auf Sprachprobleme wurde in der Studie festgestellt, dass etwa 17% der Kinder in Deutschland im Alter von 3 bis 17 Jahren betroffen sind.",
+        "tokens": [
+            {
+                "Deutschland": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Diese Sprachprobleme k\u00f6nnen unterschiedliche Ursachen haben, wie zum Beispiel Entwicklungsst\u00f6rungen, H\u00f6rprobleme oder neurologische Erkrankungen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Es ist wichtig zu betonen, dass eine fr\u00fchzeitige Diagnose und Therapie von Sprachproblemen die Chancen auf eine erfolgreiche Behandlung erh\u00f6ht.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Daher ist die Zusammenarbeit von verschiedenen medizinischen Fachgebieten wie Ergotherapie, Logop\u00e4die und Di\u00e4tetik von gro\u00dfer Bedeutung, um die bestm\u00f6gliche Versorgung der betroffenen Kinder zu gew\u00e4hrleisten.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ein weiterer wichtiger Aspekt der Ergotherapie ist die Arbeit mit Patienten mit anerkannter Behinderung.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Etwa 28% der Menschen mit anerkannter Behinderung in Deutschland ben\u00f6tigen Ergotherapie.",
+        "tokens": [
+            {
+                "Deutschland": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Die Zahl bezieht sich darauf, dass etwa 28% der Menschen in Deutschland mit einer anerkannten Behinderung von Ergotherapie profitieren k\u00f6nnen und diese Therapieform ben\u00f6tigen.",
+        "tokens": [
+            {
+                "Deutschland": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Die Gr\u00fcnde f\u00fcr eine anerkannte Behinderung k\u00f6nnen vielf\u00e4ltig sein, wie z.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "B.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "angeborene Erkrankungen, Unf\u00e4lle, neurologische Erkrankungen oder Erkrankungen des Bewegungsapparates.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ergotherapie kann diesen Menschen helfen, ihre motorischen F\u00e4higkeiten und ihre Selbstst\u00e4ndigkeit im Alltag zu verbessern, sowie ihre kognitive und psychische Gesundheit zu f\u00f6rdern.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "In Deutschland sind laut Statistik des Bundesministeriums f\u00fcr Gesundheit im Jahr 2020 rund 7,7 Millionen Menschen mit einer anerkannten Behinderung registriert.",
+        "tokens": [
+            {
+                "Deutschland": "LOC",
+                "Bundesministeriums f\u00fcr Gesundheit": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Wenn 28% dieser Gruppe Ergotherapie ben\u00f6tigen, bedeutet dies, dass rund 2,2 Millionen Menschen in Deutschland von dieser Therapieform profitieren k\u00f6nnten.",
+        "tokens": [
+            {
+                "Deutschland": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "In vielen F\u00e4llen arbeiten Ergotherapeuten auch mit den Sorgeberechtigten zusammen, um sicherzustellen, dass der Patient die bestm\u00f6gliche Betreuung erh\u00e4lt.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ergotherapeuten sind in der Regel Absolventen von prim\u00e4rqualifizierenden Studieng\u00e4ngen, die sie auf eine Karriere in der Ergotherapie vorbereiten.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die BDSL F\u00f6rderpreis ist ein Beispiel f\u00fcr eine Auszeichnung, die f\u00fcr hervorragende Leistungen in der Ergotherapie vergeben wird.",
+        "tokens": [
+            {
+                "BDSL": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Die Philipps Universit\u00e4t Marburg bietet auch einen Bachelor-Studiengang in Ergotherapie an.",
+        "tokens": [
+            {
+                "Philipps Universit\u00e4t Marburg": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Ergotherapeuten bieten oft praktische Unterst\u00fctzung, einschlie\u00dflich Hausbesuchen, um sicherzustellen, dass die Patienten in ihrer t\u00e4glichen Umgebung die bestm\u00f6gliche Unterst\u00fctzung erhalten.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Sie arbeiten auch eng mit Vertretungsberechtigten und gesetzlichen Krankenkassen zusammen, um sicherzustellen, dass die notwendige Versorgung finanziert wird.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ergotherapeuten behandeln auch eine Vielzahl von medizinischen Bedingungen, einschlie\u00dflich psychischer Auff\u00e4lligkeiten.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Laut Daten gibt es in Deutschland etwa 19.",
+        "tokens": [
+            {
+                "Deutschland": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "645 Patienten mit psychischen Auff\u00e4lligkeiten, die von Ergotherapeuten betreut werden.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ein weiteres Beispiel f\u00fcr die Arbeit von Ergotherapeuten ist die Unterst\u00fctzung von Patienten mit Redeflussst\u00f6rungen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die VLLP, oder \"Verhaltenstherapeutisches Langzeit-Lernprogramm\" ist ein Beispiel f\u00fcr eine Methode, die von Ergotherapeuten zur Unterst\u00fctzung von Patienten mit Redeflussst\u00f6rungen eingesetzt wird.",
+        "tokens": [
+            {
+                "VLLP": "ORG",
+                "Verhaltenstherapeutisches Langzeit-Lernprogramm": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Die VLLP hat eine Erfolgsquote von etwa 0,45.",
+        "tokens": [
+            {
+                "VLLP": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Insgesamt ist die Ergotherapie eine wichtige Disziplin in der medizinischen Versorgung.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Mit etwa 12 Milliarden Euro pro Jahr an Ausgaben f\u00fcr Rehabilitation und therapeutische Versorgung in Deutschland ist die Ergotherapie eine wichtige Ressource f\u00fcr die Gesellschaft.",
+        "tokens": [
+            {
+                "Deutschland": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Die Ausgaben f\u00fcr Ergotherapie k\u00f6nnen von verschiedenen Faktoren abh\u00e4ngen, wie der Art und Schwere der Erkrankung, der H\u00e4ufigkeit der Therapiesitzungen und der Dauer der Behandlung.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Laut einer Studie aus dem Jahr 2020 betrug der durchschnittliche Preis pro Ergotherapiesitzung in Deutschland etwa 45 Euro.",
+        "tokens": [
+            {
+                "Jahr 2020": "MISC",
+                "Deutschland": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Insgesamt zeigt die hohe Ausgabenbilanz f\u00fcr Rehabilitation und therapeutische Versorgung in Deutschland, wie wichtig die Ergotherapie als Teil dieses Systems ist.",
+        "tokens": [
+            {
+                "Deutschland": "LOC"
+            }
+        ]
+    }
+]

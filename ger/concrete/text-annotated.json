@@ -1,0 +1,346 @@
+[
+    {
+        "text": "Beton ist ein vielseitiger Baustoff, der in der Bauindustrie weit verbreitet ist.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Er weist verschiedene mechanische Eigenschaften auf, die durch bestimmte Parameter und Konstruktionstechniken beeinflusst werden k\u00f6nnen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Bei der Konstruktion von Betonbauteilen ist die Kippstabilit\u00e4t von gro\u00dfer Bedeutung.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Eine Kippstabilit\u00e4t von 150% bedeutet, dass das Bauteil eine ausreichende Widerstandsf\u00e4higkeit gegen\u00fcber seitlicher Kippbewegung aufweist.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Torsionssteifigkeit des Betons betr\u00e4gt etwa 25,5%.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Dieser Parameter gibt Aufschluss \u00fcber die F\u00e4higkeit des Betons, Torsionskr\u00e4fte standzuhalten und Verformungen entgegenzuwirken.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Spannbetontr\u00e4ger, bei denen vorgespannte Litzen oder Kabel verwendet werden, weisen eine erh\u00f6hte Festigkeit und Tragf\u00e4higkeit auf.",
+        "tokens": [
+            {
+                "Spannbetontr\u00e4ger": "PER"
+            }
+        ]
+    },
+    {
+        "text": "Etwa 0,5% der Tr\u00e4ger im Betonbau werden als Spannbetontr\u00e4ger ausgef\u00fchrt.",
+        "tokens": [
+            {
+                "Spannbetontr\u00e4ger": "PER"
+            }
+        ]
+    },
+    {
+        "text": "B\u00fcgelbewehrung spielt eine wichtige Rolle in der Betonkonstruktion.",
+        "tokens": [
+            {
+                "B\u00fcgelbewehrung": "PER"
+            }
+        ]
+    },
+    {
+        "text": "Eine typische Anwendung sind Spannbetonbalken, die eine B\u00fcgelbewehrung aufweisen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Verwendung von 89 B\u00fcgeln pro Balken verbessert die Biegesteifigkeit und reduziert das Risiko von Rissen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Querkraft im Beton, gemessen in der Einheit MPa, betr\u00e4gt etwa 0,08.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Dieser Wert gibt an, wie gut der Beton Belastungen entlang der Querachse widerstehen kann.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Der Schubmittelpunkt ist der Punkt in einem Betonbauteil, an dem die Schubspannungen am geringsten sind.",
+        "tokens": [
+            {
+                "Schubspannungen": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Er liegt typischerweise bei etwa 650 mm von einer bestimmten Referenzstelle entfernt.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Nachrisszugfestigkeit des Betons liegt bei etwa 12 MPa.",
+        "tokens": [
+            {
+                "Nachrisszugfestigkeit des Betons": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Dieser Parameter ist wichtig, um die F\u00e4higkeit des Betons zu bewerten, Zugspannungen nach dem Auftreten von Rissen aufzunehmen und Rissfortschreitung zu verhindern.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Betondruckfestigkeit ist ein wichtiger Parameter, der die F\u00e4higkeit des Betons misst, Druckkr\u00e4fte aufzunehmen, bevor er versagt.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Sie wird \u00fcblicherweise in Megapascal (MPa) gemessen.",
+        "tokens": [
+            {
+                "Megapascal": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Ein Wert von etwa 325 MPa f\u00fcr die Betondruckfestigkeit deutet darauf hin, dass der Beton eine hohe Festigkeit aufweist und in der Lage ist, betr\u00e4chtliche Druckkr\u00e4fte zu widerstehen, bevor er versagt.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Dieser Wert kann je nach Mischung und Verarbeitung des Betons variieren.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Es ist wichtig anzumerken, dass die Betondruckfestigkeit von mehreren Faktoren beeinflusst wird, wie zum Beispiel der Art und Menge der verwendeten Zuschlagstoffe, dem Verh\u00e4ltnis von Zement zu Wasser, dem Aush\u00e4rtungsprozess und der Qualit\u00e4t der Bauausf\u00fchrung.",
+        "tokens": [
+            {
+                "Aush\u00e4rtungsprozess": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Die Betondruckfestigkeit wird in der Regel durch standardisierte Pr\u00fcfverfahren ermittelt, wie z.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "B.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "den Druckversuch an zylindrischen Proben.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Wahl einer geeigneten Betondruckfestigkeit h\u00e4ngt von den Anforderungen und Belastungen des Bauprojekts ab.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Je nach Art des Bauwerks, der geplanten Nutzung und den Sicherheitsfaktoren kann eine bestimmte Mindestfestigkeit erforderlich sein.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ingenieure und Bauherren ber\u00fccksichtigen diese Anforderungen bei der Auswahl der richtigen Betonmischung und der Festlegung der erforderlichen Betondruckfestigkeit.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Es ist zu beachten, dass die Betondruckfestigkeit nur eine der vielen Eigenschaften ist, die bei der Bewertung der Leistungsf\u00e4higkeit von Betonstrukturen ber\u00fccksichtigt werden.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Andere wichtige Faktoren sind zum Beispiel die Zugfestigkeit, die Biegefestigkeit und die Dauerhaftigkeit des Betons.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Eine zweiaxiale Biegung im Beton bedeutet, dass das Bauteil Biegebelastungen entlang zweier Achsen erf\u00e4hrt.",
+        "tokens": [
+            {
+                "Biegebelastungen": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Die Biegesteifigkeit in diesem Fall betr\u00e4gt etwa 82.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Etwa 47% des Bruchmoments werden von der Gabellagerung im Beton aufgenommen.",
+        "tokens": [
+            {
+                "Bruchmoments": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Die Gabellagerung ist eine spezielle Art der Lagerung, die die Lastverteilung in Betonbauteilen verbessert.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Obergurtbewehrung im Beton, auch als Bewehrung im oberen Bereich eines Tr\u00e4gers bezeichnet, verbessert die Tragf\u00e4higkeit und Steifigkeit des Bauteils.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Eine typische Anwendung ist der Einsatz von Litzen in der Obergurtbewehrung.",
+        "tokens": [
+            {
+                "Obergurtbewehrung": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Die B\u00fcgelbewehrungsrichtung und die Dehnung der B\u00fcgelbewehrung sind entscheidende Parameter bei der Konstruktion von Betonbauteilen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Sie wirken sich auf die Tragf\u00e4higkeit, Rissbildung und Verformungsf\u00e4higkeit des Betons aus.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die B\u00fcgelbewehrungsrichtung bezieht sich auf die Anordnung der B\u00fcgel im Betonbauteil.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Platzierung der B\u00fcgel entlang der Spannrichtung des Bauteils tr\u00e4gt zur Erh\u00f6hung der Biegesteifigkeit und zur Begrenzung von Rissen bei.",
+        "tokens": [
+            {
+                "Spannrichtung": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Eine typische Praxis ist es, die B\u00fcgel senkrecht zur Hauptspannungsrichtung anzuordnen, um die Tragf\u00e4higkeit zu optimieren.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Dehnung der B\u00fcgelbewehrung bezieht sich auf die Verformung der B\u00fcgel w\u00e4hrend der Belastung.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Sie ist eng mit der Dehnungsverteilung im Beton verbunden und tr\u00e4gt zur Verteilung von Zugspannungen bei.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Durch die richtige Auswahl der B\u00fcgeldehnung kann die Rissbildung im Beton kontrolliert werden.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Bei der B\u00fcgelbewehrung werden verschiedene Parameter ber\u00fccksichtigt, darunter der B\u00fcgeldurchmesser, der B\u00fcgelabstand und die B\u00fcgelspannung.",
+        "tokens": [
+            {
+                "B\u00fcgeldurchmesser": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Der B\u00fcgeldurchmesser liegt typischerweise im Bereich von 6 bis 16 mm, w\u00e4hrend der B\u00fcgelabstand je nach Anwendung variieren kann.",
+        "tokens": [
+            {
+                "B\u00fcgeldurchmesser": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Die B\u00fcgelspannung wird oft in Bezug auf den Stahlspannungsanteil angegeben und kann Werte von mehreren hundert Megapascal (MPa) erreichen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Die Wahl der B\u00fcgelbewehrungsrichtung und -dehnung erfolgt in Abh\u00e4ngigkeit von den spezifischen Anforderungen des Betonbauteils, wie z.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "B.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "der Belastung, der Spannungsverteilung und den gew\u00fcnschten Verformungseigenschaften.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ingenieure und Konstrukteure ber\u00fccksichtigen diese Faktoren sorgf\u00e4ltig, um die Leistungsf\u00e4higkeit und Langlebigkeit der Betonstrukturen zu gew\u00e4hrleisten.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Es ist wichtig anzumerken, dass die genauen Werte f\u00fcr die B\u00fcgelbewehrungsrichtung und -dehnung von verschiedenen Faktoren abh\u00e4ngen, wie beispielsweise der Art des Betonbauteils, der angewendeten Belastung und den spezifischen Normen und Standards, die in einem bestimmten Land oder einer Region gelten.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Eine detaillierte Auslegung und Berechnung erfolgt normalerweise durch erfahrene Ingenieure unter Ber\u00fccksichtigung aller relevanten Faktoren.",
+        "tokens": [
+            {}
+        ]
+    }
+]

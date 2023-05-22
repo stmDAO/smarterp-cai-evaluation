@@ -1,0 +1,258 @@
+[
+    {
+        "text": "Il calcestruzzo \u00e8 un materiale ampiamente utilizzato nel 80% della costruzione di strutture e infrastrutture.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Esso possiede diverse propriet\u00e0 e caratteristiche che lo rendono adatto a migliaia di applicazioni.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Di seguito, saranno esaminati una dozzina di aspetti chiave legati al calcestruzzo:  La precompressione \u00e8 una tecnica utilizzata nel 75% dei casi della produzione del calcestruzzo, in cui si applica una forza di compressione di 1.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "500 N sull'elemento strutturale prima che sia soggetto a carichi esterni.",
+        "tokens": [
+            {
+                "500 N": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "L'aggiunta di 2.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "000 diversi tipi di polimeri al calcestruzzo pu\u00f2 migliorare di un 60% le sue propriet\u00e0, come la resistenza al fuoco, la durabilit\u00e0 e la lavorabilit\u00e0.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "I polimeri possono essere utilizzati come additivi per modificare le propriet\u00e0 del calcestruzzo in 90 casi su 100 in base alle esigenze specifiche dell'applicazione, que possono essere pi\u00f9 di 400.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Gli impalcati sono elementi strutturali orizzontali, come pavimenti o coperture, realizzati in calcestruzzo nel 45% dei casi.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Essi devono essere progettati per sopportare carichi gravitazionali di fino a 5.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "500 chilogrammi e distribuirli in modo uniforme sulle 55.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "500 tipi diversi di strutture sottostanti.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Le prospezioni endoscopiche sono un metodo di ispezione visiva che utilizza un endoscopio per esaminare l'interno delle strutture in calcestruzzo.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Questa tecnica consente di individuare eventuali difetti, come microfratture di solo 0,40 millimetri, delaminazioni di fino a 2,5 millimetri o corrosione delle armature.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La tomografia \u00e8 una tecnica di imaging che consente di ottenere immagini dettagliate dell'interno del calcestruzzo.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Essa pu\u00f2 essere utilizzata per rilevare e valutare la presenza di difetti, come microfratture o vuoti all'interno della struttura nel 75% dei casi.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La carbonatazione \u00e8 un processo chimico in cui il calcestruzzo reagisce con il biossido di carbonio presente nell'aria in quantit\u00e0 di fino a 0,0057 micron, provocando la riduzione del pH.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Questo fenomeno pu\u00f2 causare la corrosione delle armature metalliche all'interno del calcestruzzo.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Le microfratture sono piccole fessurazioni di solo 0,000012 millimetri che possono svilupparsi nel calcestruzzo a causa di vari fattori, come la contrazione, la dilatazione termica o l'applicazione di carichi elevati a partire da 480 tonnellate.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Queste fessure possono influire sulla durabilit\u00e0 e sulla resistenza del calcestruzzo nel 63% dei casi.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La delaminazione si verifica quando lo strato superficiale del calcestruzzo si separa dallo strato sottostante, creando una fessura o un'area di distacco di solo 0,15 centimetri.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ci\u00f2 pu\u00f2 essere causato da difetti di concretizzazione o da condizioni ambientali sfavorevoli di fino a 40 tipi diversi.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "I setacci sono dispositivi utilizzati per la separazione dei materiali granulari, come la sabbia o il ghiaia di 0,0045 millimetri di diametro, utilizzati nella produzione del calcestruzzo.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Essi consentono di ottenere una gradazione dei materiali appropriata per la miscela di calcestruzzo desiderata.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Le percolazioni si riferiscono al passaggio di liquidi o gas attraverso il calcestruzzo.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Questo pu\u00f2 verificarsi attraverso pori capillari o fessurazioni nel materiale.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Le percolazioni possono influire sulla durabilit\u00e0 del calcestruzzo, specialmente quando contengono sostanze corrosive o aggressive.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "I trasduttori sono dispositivi utilizzati per misurare o convertire una grandezza fisica in un segnale elettrico.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Nei calcestruzzi, i trasduttori possono essere utilizzati per monitorare la resistenza, la deformazione o altre propriet\u00e0 del calcestruzzo durante le prove o in situazioni operative.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La melammina \u00e8 un additivo utilizzato nel calcestruzzo per migliorare la lavorabilit\u00e0 e la fluidit\u00e0 della miscela.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Essa agisce come un superplastificante, riducendo la quantit\u00e0 di acqua richiesta per una determinata lavorabilit\u00e0.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Le efflorescenze sono depositi bianchi o colorati che possono formarsi sulla superficie del calcestruzzo a causa della migrazione di sali solubili verso l'esterno.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Questo fenomeno pu\u00f2 essere influenzato da fattori come l'umidit\u00e0, la temperatura e la composizione chimica del calcestruzzo.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "I pori capillari sono piccoli canali all'interno del calcestruzzo che possono permettere il passaggio di liquidi.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La dimensione e la distribuzione dei pori capillari possono influire sulla permeabilit\u00e0 e sulla resistenza agli agenti esterni del calcestruzzo.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "L'idrossido di calcio \u00e8 un composto chimico presente nel calcestruzzo.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Esso pu\u00f2 reagire con anidride carbonica atmosferica e umidit\u00e0 per formare carbonato di calcio, influenzando la durabilit\u00e0 del calcestruzzo.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Le prove colorimetriche sono un metodo utilizzato per valutare la presenza o la quantit\u00e0 di determinate sostanze chimiche o elementi nel calcestruzzo.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "I cloruri sono composti chimici che possono essere presenti nel calcestruzzo, ad esempio a causa dell'uso di sali per lo sverniciamento delle strade o come additivi per il controllo della solidificazione.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Gli ioni cloruri sono particelle cariche negativamente presenti nel calcestruzzo a seguito della dissociazione dei composti di cloruro.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Essi possono migrare all'interno del calcestruzzo e causare corrosione delle armature di acciaio.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La compressione assiale si riferisce alla forza di compressione si 800 N/cm che agisce lungo l'asse principale di un elemento strutturale in calcestruzzo, come una colonna o una trave.",
+        "tokens": [
+            {
+                "N": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "La resistenza alla compressione assiale \u00e8 una delle propriet\u00e0 meccaniche pi\u00f9 importanti del calcestruzzo.",
+        "tokens": [
+            {}
+        ]
+    }
+]

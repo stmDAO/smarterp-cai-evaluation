@@ -1,0 +1,37 @@
+Tunnel boring machines (TBMs) are sophisticated equipment used for excavating tunnels in various geological conditions. They consist of several components, including a cutterhead, which plays a crucial role in the excavation process.
+
+The cutterhead, with its rotating discs or cutting tools, is responsible for breaking and removing the rock or soil as the TBM advances. The efficiency and performance of the cutterhead depend on factors such as the uniaxial compressive strength and brittleness of the rock or soil being excavated.
+
+The uniaxial compressive strength, measured in units of pressure (such as megapascals or pounds per square inch), indicates the maximum stress that a rock or soil sample can withstand under compression. A value of 22,458 MPa for the uniaxial compressive strength suggests a high-strength material capable of withstanding significant pressure before failure.
+
+Brittleness, expressed as a percentage, describes the tendency of a material to fracture or break rather than deform under stress. A brittleness value of 28.5% implies a certain level of susceptibility to fracturing, which can affect the excavation process.
+
+In some cases, TBMs employ additional tools and mechanisms to enhance their performance. For example, the use of a limpet, a specialised drilling device, can facilitate the excavation of challenging formations. The Deccan Trap, a large volcanic rock formation in India, is an example of such a challenging geological formation.
+
+Tensile specimens are used to measure the tensile strength of materials, which is their resistance to being pulled apart or stretched. In the context of TBMs, tensile specimens help evaluate the structural integrity of the materials being excavated and provide insights into the machine's effectiveness.
+
+Rippability refers to the ease with which a particular material can be excavated or ripped by mechanical means. A rippability value of 14 indicates the relative ease of excavation in the given geological conditions.
+
+To ensure the stability and manoeuvrability of the TBM during tunnelling, road grippers or track shoes are utilised. These grippers provide traction and prevent slippage, enabling the TBM to advance smoothly.
+
+Transient dynamics, characterised by fast-changing forces and vibrations, are considerations in TBM operation. With a value of 0.0012, the transient dynamic factor highlights the importance of designing TBMs to withstand and mitigate such dynamic effects.
+
+The strength gradient, expressed as a percentage, represents the change in strength over a given distance. A strength gradient of 99% suggests a gradual variation in strength within the rock or soil, which can influence the excavation process and the stability of the tunnel.
+
+In tunnelling projects, decision-making processes are employed to evaluate different alternatives. The TOPSIS method (Technique for Order of Preference by Similarity to Ideal Solution), with a value of 48, is one such method used to assess the relative merits of various options based on multiple criteria.
+
+Complexation, with a value of 51,890, refers to the formation of chemical complexes or associations between different substances. This parameter can be relevant in assessing the behaviour of certain minerals or materials encountered during tunnelling.
+
+Drillability, expressed as a percentage, represents the ease with which a particular rock or soil can be drilled. A drillability value of 22% suggests some challenges in the drilling process.
+
+Deformability refers to the ability of a material to undergo elastic or plastic deformation under stress. Understanding the deformability of the rock or soil encountered during tunnelling is essential for predicting ground behaviour and ensuring the stability of the tunnel.
+
+Tribochemical removal, observed in 2018, pertains to the removal of material through a combination of mechanical action and chemical reactions occurring at the interface between the TBM tool and the rock or soil. This process involves the interaction between the tool and the material being excavated, where chemical reactions assist in breaking down or loosening the material, facilitating its removal.
+
+Abrasiveness, projected for 2023, signifies the degree of resistance or wear caused by the excavated material on the TBM tools. It measures the material's ability to cause erosion or wear on the cutting edges or surfaces of the TBM components, impacting the machine's efficiency and durability.
+
+Mineral prospectivity refers to the likelihood or potential for discovering economically valuable minerals or mineral resources during tunnelling or excavation activities. It involves assessing the geological characteristics, mineralization patterns, and other indicators to determine the probability of encountering mineral deposits within the excavation area.
+
+Microborer and macroborer are terms that describe different sizes or scales of excavation tools or machines. A microborer is a small-scale drilling or cutting device used for precise or delicate excavation tasks, typically in confined spaces or for intricate operations. On the other hand, a macroborer refers to a larger-scale drilling or cutting machine used for significant excavations, such as tunnels or large-scale construction projects.
+
+Thrust force relates to the axial force applied by the TBM to advance through the rock or soil. It is the force exerted in the direction of tunnelling, allowing the TBM to overcome the resistance and progress forward. The thrust force is a critical parameter that must be carefully controlled to ensure the stability and efficient operation of the TBM.

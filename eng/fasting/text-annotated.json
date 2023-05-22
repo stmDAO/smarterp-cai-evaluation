@@ -1,0 +1,335 @@
+[
+    {
+        "text": "Anthropometric characteristics, such as body mass index (BMI), are often studied to assess the effects of fasting on weight and body composition.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Fasting can impact 45% of biological pathways, including energy homeostasis and the circadian clock system.",
+        "tokens": [
+            {
+                "45%": "PERCENT"
+            }
+        ]
+    },
+    {
+        "text": "151,442 studies carried out have shown that fasting can lead to changes in hormone levels and metabolic processes.",
+        "tokens": [
+            {
+                "151,442": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "For example, ghrelin, known as the hunger hormone, may increase 0.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "01 mg during fasting, while antidiabetic medications may be influenced by the altered glucose phenotype.",
+        "tokens": [
+            {
+                "01 mg": "QUANTITY"
+            }
+        ]
+    },
+    {
+        "text": "Fasting has also been associated with changes in catecholamine concentrations, including epinephrine, which plays a role in regulating metabolism.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "It has been studied in 233 essays in relation to chronic inflammation, cellular senescence, and conditions like fatty liver disease.",
+        "tokens": [
+            {
+                "233": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "Biomarkers and glycaemic response, such as glycated hemoglobin 0.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "002, are used to evaluate the impact of fasting on health outcomes.",
+        "tokens": [
+            {
+                "002": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "Different types of fasting, including calorie restriction and intermittent fasting, have been investigated.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Brown adipose tissue, known for its role in thermogenesis, has also been linked to fasting and its potential metabolic benefits.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Additionally, the presence of antimicrobial proteins and their role in the fasting response have been explored.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "When studying fasting, 6,589 methods and measurements have been used.",
+        "tokens": [
+            {
+                "6,589": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "22 capillary blood ketone levels, for instance, can indicate the state of ketosis during fasting.",
+        "tokens": [
+            {
+                "22": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "Covariates, such as age or medication use, are considered to better understand the effects of fasting on different populations.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Researchers utilise different techniques, including the analysis of biological samples and the study of specific biological pathways, such as deacetylase activity.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Numerous studies have explored the effects of fasting on various aspects of health, including glycemic control, cellular processes, and overall well-being.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Here are some key words and associated numbers related to fasting:  Intermittent fasting is an approach that involves cycling between periods of fasting and eating.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "It has positive effects on various health markers.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Hyperglycemia refers to high blood sugar levels.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Fasting has been found to help regulate blood glucose levels and improve glycemic control, contributing to reduced hyperglycemia.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Lipolysis is the breakdown of fats to release fatty acids.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "During fasting, lipolysis increases.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Leptin is a hormone that regulates hunger and energy balance.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Fasting can impact leptin levels, potentially promoting weight loss and appetite control.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Fasting can affect several metabolic markers, including systolic blood pressure.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Studies have reported reductions in systolic blood pressure by approximately 17% during fasting.",
+        "tokens": [
+            {
+                "approximately 17%": "PERCENT"
+            }
+        ]
+    },
+    {
+        "text": "Telomeres are protective caps on the ends of chromosomes, and telomere attrition is associated with cellular ageing.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Fasting has been shown to potentially slow down telomere shortening, contributing to cellular rejuvenation.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "The gut microbiome plays a crucial role in health and disease.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Fasting has been found to influence the composition and diversity of the gut microbiome.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Fasting may help mitigate stem cell exhaustion, which refers to the decline in the regenerative capacity of stem cells.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "By promoting stem cell renewal, fasting may contribute to tissue repair and rejuvenation.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Fasting can stimulate the activity of histone deacetylase, an enzyme involved in gene regulation and cellular processes such as hepatic autophagy and mitochondrial function.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Mendelian randomization is a method used to assess causal relationships between an exposure and an outcome.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "It has been utilised in studies investigating the effects of fasting on various health outcomes.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Fasting is a dietary practice that has been studied for its potential health benefits.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "It involves abstaining from food or caloric intake for a specific period of time.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Let's explore some key terms and figures related to fasting:  Metformin is a commonly prescribed medication for managing blood sugar levels in individuals with type 2 diabetes.",
+        "tokens": [
+            {
+                "Metformin": "PRODUCT",
+                "2": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "44,756 studies have investigated the combined effects of metformin and fasting on glycemic control and metabolic health.",
+        "tokens": [
+            {
+                "44,756": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "The microbiome refers to the diverse community of microorganisms that reside in the human body, particularly in the gut.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Fasting has been suggested to help improve mitochondrial function and reduce mitochondrial dysfunction.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Neoadjuvant chemotherapy is a type of treatment administered before surgery or other primary therapies to shrink tumours.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "852 studies have explored the potential benefits of fasting in combination with neoadjuvant chemotherapy for cancer patients.",
+        "tokens": [
+            {
+                "852": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "Neutropenic fever is a fever that occurs in individuals with as low a level of neutrophils as 2.",
+        "tokens": [
+            {
+                "2": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "32 per ml of blood, a type of white blood cell important for fighting infections.",
+        "tokens": [
+            {
+                "32": "CARDINAL"
+            }
+        ]
+    },
+    {
+        "text": "Fasting has been associated with changes in norepinephrine concentration, which can affect metabolism and energy regulation.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "The peripheral circadian clock refers to the internal biological clock present in various tissues and organs of the body.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Polycystic ovary syndrome is a hormonal disorder that affects women of reproductive age.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Fasting has been proposed to promote rejuvenation by activating cellular repair mechanisms and reducing cellular stress.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "This can potentially have anti-aging effects and improve overall health, help remyelination, improve systolic blood pressure, reduce telomere attrition, prevent trimethylation, promote upregulation of certain genes, activate vanilloids and induce white adipocyte generation.",
+        "tokens": [
+            {}
+        ]
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "text": "Le b\u00e9ton est un mat\u00e9riau de construction largement utilis\u00e9, caract\u00e9ris\u00e9 par sa r\u00e9sistance et sa durabilit\u00e9.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Il est compos\u00e9 de divers \u00e9l\u00e9ments, notamment des granulats, du ciment, de l'eau et des adjuvants, qui contribuent \u00e0 ses propri\u00e9t\u00e9s physiques et m\u00e9caniques.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Les granulats, qui repr\u00e9sentent environ 0,0008% du volume total du b\u00e9ton, sont des mat\u00e9riaux min\u00e9raux tels que le sable, le gravier et les gravillons.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ils jouent un r\u00f4le essentiel dans la r\u00e9sistance et la compacit\u00e9 du b\u00e9ton.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Leur taille et leur distribution sont \u00e9valu\u00e9es \u00e0 l'aide de la courbe granulom\u00e9trique, qui permet d'optimiser les caract\u00e9ristiques du m\u00e9lange.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Le m\u00e9lange du b\u00e9ton, appel\u00e9 g\u00e2chage, implique le m\u00e9lange minutieux des diff\u00e9rents composants pour assurer une distribution homog\u00e8ne.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La compacit\u00e9 du b\u00e9ton, mesur\u00e9e en 1991, est un param\u00e8tre important qui d\u00e9termine sa densit\u00e9 et sa r\u00e9sistance.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Plus le b\u00e9ton est compact, plus sa densit\u00e9 est \u00e9lev\u00e9e et plus il est susceptible d'\u00eatre r\u00e9sistant.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Pour obtenir une compacit\u00e9 optimale, divers facteurs sont pris en compte, tels que le rapport eau-ciment, la granulom\u00e9trie des granulats et l'utilisation de superplastifiants pour am\u00e9liorer la maniabilit\u00e9 du m\u00e9lange.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Les valeurs sp\u00e9cifiques de compacit\u00e9 peuvent varier en fonction des exigences du projet, du type de b\u00e9ton et des normes de construction applicables.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "L'utilisation de superplastifiants, qui repr\u00e9sentent environ 500 du poids du ciment, permet d'am\u00e9liorer la maniabilit\u00e9 et la plasticit\u00e9 du b\u00e9ton.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ces additifs r\u00e9duisent la quantit\u00e9 d'eau n\u00e9cessaire au m\u00e9lange sans compromettre sa fluidit\u00e9, ce qui peut conduire \u00e0 une r\u00e9duction de 35% de l'eau utilis\u00e9e dans les conditions hygrom\u00e9triques.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En termes de dosage, les superplastifiants sont g\u00e9n\u00e9ralement utilis\u00e9s \u00e0 des taux de 0,5% \u00e0 2% par rapport \u00e0 la masse du ciment.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Cependant, ces chiffres peuvent varier en fonction de la formulation sp\u00e9cifique du superplastifiant et des exigences du m\u00e9lange de b\u00e9ton.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Il convient de noter que l'utilisation de superplastifiants peut \u00e9galement influencer d'autres propri\u00e9t\u00e9s du b\u00e9ton, telles que le temps de prise, la r\u00e9sistance initiale et la durabilit\u00e9.",
+        "tokens": [
+            {
+                "superplastifiants": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Par cons\u00e9quent, il est important de suivre les recommandations du fabricant et de mener des essais appropri\u00e9s pour obtenir les performances souhait\u00e9es du b\u00e9ton.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La r\u00e9sistance du b\u00e9ton aux d\u00e9formations axiales est \u00e9valu\u00e9e \u00e0 l'aide d'\u00e9prouvettes cylindriques lors de tests de compression.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ces essais permettent de mesurer la capacit\u00e9 du b\u00e9ton \u00e0 r\u00e9sister aux forces appliqu\u00e9es dans la direction axiale, c'est-\u00e0-dire le long de l'axe de l'\u00e9prouvette cylindrique.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La r\u00e9sistance du b\u00e9ton aux d\u00e9formations axiales est exprim\u00e9e en termes de r\u00e9sistance \u00e0 la compression, mesur\u00e9e en m\u00e9gapascals (MPa) ou en livres par pouce carr\u00e9 (psi).",
+        "tokens": [
+            {
+                "MPa": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Les valeurs typiques de r\u00e9sistance \u00e0 la compression du b\u00e9ton varient en fonction de divers facteurs, tels que la composition du m\u00e9lange, le rapport eau/ciment, le temps de durcissement et les conditions de cure.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Pour donner une id\u00e9e g\u00e9n\u00e9rale, la r\u00e9sistance \u00e0 la compression du b\u00e9ton peut varier de quelques dizaines de MPa (par exemple, 20 MPa ou 3 000 psi) pour des applications courantes, jusqu'\u00e0 plusieurs centaines de MPa (par exemple, 100 MPa ou 15 000 psi) pour des applications sp\u00e9ciales n\u00e9cessitant une r\u00e9sistance \u00e9lev\u00e9e.",
+        "tokens": [
+            {
+                "MPa": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Il est important de noter que les valeurs de r\u00e9sistance du b\u00e9ton aux d\u00e9formations axiales peuvent varier en fonction de nombreux facteurs, et il est essentiel de r\u00e9aliser des essais sp\u00e9cifiques pour \u00e9valuer la r\u00e9sistance du b\u00e9ton utilis\u00e9 dans une situation donn\u00e9e.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Le b\u00e9ton peut \u00e9galement pr\u00e9senter des propri\u00e9t\u00e9s sp\u00e9cifiques en fonction de l'ajout de polym\u00e8res, qui repr\u00e9sentent environ 0,25% du poids du ciment.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ces polym\u00e8res am\u00e9liorent la ductilit\u00e9 et la r\u00e9sistance du b\u00e9ton aux fissures et aux d\u00e9formations.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ils peuvent \u00eatre utilis\u00e9s dans des applications sp\u00e9cifiques, telles que l'hydrog\u00e9ologie ou les mat\u00e9riaux bitumineux.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "L'utilisation de b\u00e9tons autopla\u00e7ants, qui repr\u00e9sentent environ un tiers du volume total de b\u00e9ton, facilite la mise en place du mat\u00e9riau sans n\u00e9cessiter de vibration ou de compactage.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Cela permet de r\u00e9duire les d\u00e9formations et les d\u00e9fauts de surface.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En ce qui concerne la r\u00e9sistance \u00e0 la fissuration, le b\u00e9ton pr\u00e9sente g\u00e9n\u00e9ralement un taux de fendage d'environ 0,5%.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Cependant, l'utilisation de m\u00e9thodes appropri\u00e9es de conception et de renforcement, telles que le piquage et les armatures en acier (rebar), peut r\u00e9duire davantage ce risque.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La rh\u00e9ologie du b\u00e9ton, qui \u00e9tudie son comportement sous l'effet de forces externes, joue un r\u00f4le important dans sa mise en \u0153uvre.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Des \u00e9tudes ont \u00e9t\u00e9 men\u00e9es en 79 pour \u00e9valuer et optimiser les propri\u00e9t\u00e9s rh\u00e9ologiques du b\u00e9ton, notamment sa fluidit\u00e9 et son temps de prise.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Enfin, l'hydrocyclonage est une technique utilis\u00e9e dans le processus de production du b\u00e9ton pour s\u00e9parer les fines particules des granulats, ce qui am\u00e9liore la qualit\u00e9 du mat\u00e9riau final.",
+        "tokens": [
+            {}
+        ]
+    }
+]

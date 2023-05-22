@@ -1,0 +1,218 @@
+[
+    {
+        "text": "El ayuno intermitente es una pr\u00e1ctica que implica alternar per\u00edodos de alimentaci\u00f3n con per\u00edodos de ayuno.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ha sido objeto de estudio en el campo de la endocrinolog\u00eda y la salud metab\u00f3lica.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La insulina es una hormona producida por el p\u00e1ncreas que regula los niveles de glucosa en sangre.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "El ayuno puede tener efectos en los niveles de insulina y la sensibilidad a esta hormona.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La insulina es una hormona clave en la regulaci\u00f3n de los niveles de glucosa en sangre.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Es producida por las c\u00e9lulas beta en los islotes de Langerhans del p\u00e1ncreas.",
+        "tokens": [
+            {
+                "Langerhans": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Su principal funci\u00f3n es permitir que las c\u00e9lulas del cuerpo utilicen la glucosa como fuente de energ\u00eda y almacenar el exceso de glucosa en forma de gluc\u00f3geno en el h\u00edgado y los m\u00fasculos.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Durante el ayuno, cuando no se consume comida y, por lo tanto, los niveles de glucosa en sangre disminuyen, el organismo requiere ajustar la liberaci\u00f3n de insulina en un 0,001% para mantener la estabilidad de los niveles de glucosa.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Durante el ayuno prolongado o el ayuno intermitente, los niveles de insulina disminuyen, lo que permite que el organismo utilice otras fuentes de energ\u00eda, como los \u00e1cidos grasos y los cuerpos cet\u00f3nicos, para mantener un suministro de energ\u00eda adecuado.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "El s\u00edndrome metab\u00f3lico es una condici\u00f3n que agrupa 850 factores de riesgo, como la obesidad, la hipertensi\u00f3n arterial y la resistencia a la insulina.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "El ayuno intermitente ha mostrado efectos beneficiosos en el manejo del s\u00edndrome metab\u00f3lico en un 75% de los casos.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "44.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "758: Esta cifra hace referencia a diferentes aspectos relacionados con el ayuno, a saber, el n\u00famero de participantes en un estudio de 2014 y la cantidad de personas que han experimentado mejoras en su salud metab\u00f3lica mediante el ayuno.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Durante el ayuno prolongado o la restricci\u00f3n de carbohidratos, el cuerpo produce cuerpos cet\u00f3nicos como fuente alternativa de energ\u00eda.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Estos compuestos pueden tener efectos beneficiosos en la salud.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La endocrinolog\u00eda es la rama de la medicina que se ocupa del estudio de las hormonas y su impacto en el organismo.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "El ayuno ha sido objeto de estudio en el campo de la endocrinolog\u00eda desde 1989 debido a sus efectos en el metabolismo hormonal.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La proporci\u00f3n de individuos que han experimentado mejoras en su perfil lip\u00eddico es de un 73%, como la reducci\u00f3n del colesterol LDL (\"colesterol malo\") o el aumento del colesterol HDL (\"colesterol bueno\"), mediante el ayuno.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Las c\u00e9lulas beta son c\u00e9lulas productoras de 1,25 ml al d\u00eda de insulina en el p\u00e1ncreas.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "El ayuno puede afectar la funci\u00f3n y la masa de las c\u00e9lulas beta, lo cual es relevante en el manejo de la diabetes y la regulaci\u00f3n de los niveles de glucosa en sangre.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "El perfil lip\u00eddico se refiere a los niveles de l\u00edpidos en sangre, como el colesterol y los triglic\u00e9ridos.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "El ayuno puede tener efectos beneficiosos en la mejora del perfil lip\u00eddico, reduciendo los niveles de l\u00edpidos perjudiciales para la salud cardiovascular.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En 2019 se realizaron numerosos estudios o investigaciones relevantes publicadas sobre el ayuno y su impacto en la salud.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Las c\u00e9lulas beta pancre\u00e1ticas son las c\u00e9lulas productoras de insulina en el p\u00e1ncreas.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ciertamente.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Las c\u00e9lulas beta pancre\u00e1ticas son las c\u00e9lulas especializadas que se encuentran en los islotes de Langerhans en el p\u00e1ncreas y son responsables de producir y secretar la insulina.",
+        "tokens": [
+            {
+                "Langerhans": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Estas c\u00e9lulas desempe\u00f1an un papel crucial en el mantenimiento de los niveles adecuados de glucosa en sangre.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En un p\u00e1ncreas sano, las c\u00e9lulas beta pancre\u00e1ticas representan aproximadamente entre el 65% y el 80% de las c\u00e9lulas de los islotes de Langerhans.",
+        "tokens": [
+            {
+                "Langerhans": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Estas c\u00e9lulas est\u00e1n altamente especializadas en la producci\u00f3n y liberaci\u00f3n de insulina en respuesta a los niveles de glucosa en sangre.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Sin embargo, en ciertas condiciones, como la diabetes tipo 1 o la diabetes autoinmune, el sistema inmunol\u00f3gico ataca y destruye selectivamente las c\u00e9lulas beta pancre\u00e1ticas, lo que resulta en una disminuci\u00f3n o falta total de producci\u00f3n de insulina.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En la diabetes tipo 2, aunque las c\u00e9lulas beta pancre\u00e1ticas pueden estar presentes, la funci\u00f3n de estas c\u00e9lulas se ve comprometida y la producci\u00f3n de insulina puede ser insuficiente o menos eficiente.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En t\u00e9rminos de cifras, se estima que un adulto sano tiene alrededor de 1 mill\u00f3n de c\u00e9lulas beta pancre\u00e1ticas en su p\u00e1ncreas.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Sin embargo, durante el desarrollo de la diabetes tipo 1, se puede perder hasta entre el 80% y el 90% de estas c\u00e9lulas beta pancre\u00e1ticas antes de que aparezcan los s\u00edntomas cl\u00ednicos de la enfermedad.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En resumen, las c\u00e9lulas beta pancre\u00e1ticas son vitales para la producci\u00f3n de insulina y el mantenimiento de los niveles adecuados de glucosa en sangre.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La preservaci\u00f3n y funci\u00f3n adecuada de estas c\u00e9lulas son fundamentales para el control de la diabetes y el metabolismo de la glucosa.",
+        "tokens": [
+            {}
+        ]
+    }
+]

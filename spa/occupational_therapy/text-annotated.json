@@ -1,0 +1,213 @@
+[
+    {
+        "text": "La terapia ocupacional es una disciplina que se enfoca en ayudar a las personas a realizar actividades motrices y mejorar su calidad de vida.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Esta disciplina puede ser de gran ayuda para personas con diversas condiciones, incluyendo el autismo, la disfunci\u00f3n sensorial, la lesi\u00f3n neopl\u00e1sica y la ventilaci\u00f3n mec\u00e1nica invasiva.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Para muchas personas con estas condiciones, el control postural es un problema importante.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La terapia ocupacional puede ayudar a mejorar el control postural a trav\u00e9s de ejercicios espec\u00edficos y t\u00e9cnicas como el movimiento ocular autom\u00e1tico y el trabajo con el sistema vestibular.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En el caso de personas con autismo, la terapia ocupacional puede ser especialmente efectiva para ayudar a mejorar las habilidades sociales y reducir la ansiedad.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Los terapeutas ocupacionales pueden trabajar en conjunto con otros profesionales de la salud, como el fonoaudi\u00f3logo, para mejorar la comunicaci\u00f3n y la capacidad de interacci\u00f3n social.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Adem\u00e1s, la terapia ocupacional puede ser una herramienta importante para las personas que han sufrido una lesi\u00f3n neopl\u00e1sica.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Los terapeutas ocupacionales pueden trabajar en la rehabilitaci\u00f3n f\u00edsica y cognitiva, ayudando a las personas a recuperar habilidades perdidas y mejorar la calidad de vida.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Se estima que aproximadamente 58 millones de personas en todo el mundo requieren terapia ocupacional debido a discapacidades, lesiones o enfermedades cr\u00f3nicas que afectan su capacidad para realizar actividades diarias.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La terapia ocupacional puede ser beneficiosa para personas de todas las edades, desde beb\u00e9s hasta adultos mayores.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En los Estados Unidos, la Asociaci\u00f3n Americana de Terapia Ocupacional (AOTA) es la organizaci\u00f3n que representa a los terapeutas ocupacionales.",
+        "tokens": [
+            {
+                "los Estados Unidos": "LOC",
+                "Asociaci\u00f3n Americana de Terapia Ocupacional": "ORG",
+                "AOTA": "MISC"
+            }
+        ]
+    },
+    {
+        "text": "Seg\u00fan la AOTA, hay alrededor de 141,400 terapeutas ocupacionales registrados en los Estados Unidos, y cerca de 14,633 de ellos est\u00e1n registrados en el estado de California, seguido por Texas y Florida.",
+        "tokens": [
+            {
+                "AOTA": "MISC",
+                "los Estados Unidos": "LOC",
+                "California": "LOC",
+                "Texas": "LOC",
+                "Florida": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Adem\u00e1s, en los Estados Unidos, hay alrededor de 587 programas de terapia ocupacional acreditados por la Comisi\u00f3n de Acreditaci\u00f3n para la Educaci\u00f3n en Terapia Ocupacional (ACOTE), que es la agencia de acreditaci\u00f3n reconocida por el Departamento de Educaci\u00f3n de los Estados Unidos.",
+        "tokens": [
+            {
+                "los Estados Unidos": "LOC",
+                "Comisi\u00f3n de Acreditaci\u00f3n para la Educaci\u00f3n": "ORG",
+                "Terapia Ocupacional": "MISC",
+                "ACOTE": "MISC",
+                "Departamento de Educaci\u00f3n de los Estados Unidos": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Es importante tener en cuenta que estos n\u00fameros pueden variar con el tiempo y seg\u00fan la fuente que se consulte.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Sin embargo, proporcionan una idea general del alcance y la importancia de la terapia ocupacional como una pr\u00e1ctica de atenci\u00f3n m\u00e9dica esencial.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La edad motriz es un factor importante en la terapia ocupacional, y los terapeutas ocupacionales a menudo trabajan con ni\u00f1os para mejorar su coordinaci\u00f3n y control postural.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En algunos casos, la terapia ocupacional puede ayudar a prevenir la discapacidad motora en personas j\u00f3venes.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "El v\u00ednculo terap\u00e9utico es tambi\u00e9n un aspecto clave de la terapia ocupacional, ya que los terapeutas deben trabajar de cerca con sus pacientes para entender sus necesidades y metas.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La otredad y la resignificaci\u00f3n son conceptos importantes en este proceso, ya que los terapeutas ocupacionales deben ser capaces de comprender la experiencia \u00fanica de cada paciente.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La disfunci\u00f3n sensorial puede ser un desaf\u00edo para muchas personas, y los terapeutas ocupacionales pueden trabajar en conjunto con otros profesionales de la salud para abordar este problema.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La terapia ocupacional tambi\u00e9n puede ayudar a las personas a desarrollar una mejor conciencia corporal y mejorar su peso corporal.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Finalmente, la terapia ocupacional puede ser de gran ayuda para las personas que forman parte de una familia vulnerable.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Los terapeutas ocupacionales pueden trabajar con las familias para desarrollar habilidades pr\u00e1cticas y ayudarlas a enfrentar los desaf\u00edos cotidianos.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La terapia ocupacional es una disciplina importante en la neuropsiquiatr\u00eda y la rehabilitaci\u00f3n f\u00edsica y cognitiva.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Se enfoca en ayudar a las personas a realizar actividades significativas y funcionales, mejorando as\u00ed su calidad de vida.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La terapia ocupacional es especialmente \u00fatil en la rehabilitaci\u00f3n de pacientes que han sufrido una lesi\u00f3n cerebral, enfermedad neurol\u00f3gica, c\u00e1ncer seccional, autismo, disfunci\u00f3n sensorial y otras condiciones que pueden afectar su capacidad para realizar actividades diarias.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Seg\u00fan la Asociaci\u00f3n Mundial de Terapia Ocupacional (WFOT), se estima que hay alrededor de 44,500 terapeutas ocupacionales en todo el mundo.",
+        "tokens": [
+            {
+                "Asociaci\u00f3n Mundial de Terapia Ocupacional": "ORG",
+                "WFOT": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Sin embargo, la disponibilidad de terapeutas ocupacionales puede variar seg\u00fan la regi\u00f3n o el pa\u00eds.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En algunos lugares, puede haber una mayor demanda de terapeutas ocupacionales que en otros.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La terapia ocupacional ha demostrado tener una tasa de \u00e9xito del 88% en la rehabilitaci\u00f3n de pacientes.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Los terapeutas ocupacionales trabajan con los pacientes para establecer objetivos de rehabilitaci\u00f3n personalizados y desarrollar planes de tratamiento que se ajusten a sus necesidades individuales.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "El \u00e9xito en la terapia ocupacional puede medirse en t\u00e9rminos de mejoras en la funci\u00f3n f\u00edsica, cognitiva y emocional del paciente, as\u00ed como en la capacidad del paciente para realizar actividades diarias.",
+        "tokens": [
+            {}
+        ]
+    }
+]

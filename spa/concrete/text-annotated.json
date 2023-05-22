@@ -1,0 +1,228 @@
+[
+    {
+        "text": "El cemento es un material ampliamente utilizado en la construcci\u00f3n debido a su capacidad para formar estructuras resistentes.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En la industria del cemento, se han realizado numerosas investigaciones y desarrollos para mejorar sus propiedades y aplicaciones.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Uno de los avances ha sido la incorporaci\u00f3n de poliestireno expandido en la mezcla de cemento, representando aproximadamente el 55% del volumen.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Esta adici\u00f3n ayuda a reducir la densidad del cemento y proporciona propiedades de aislamiento t\u00e9rmico.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La fisuraci\u00f3n es un fen\u00f3meno preocupante en el cemento, ya que puede afectar su resistencia y durabilidad.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Se ha logrado reducir la fisuraci\u00f3n a alrededor del 4% mediante el uso de t\u00e9cnicas de dise\u00f1o y dosificaci\u00f3n adecuadas.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En t\u00e9rminos de atenuaci\u00f3n s\u00edsmica, se ha observado que ciertos tipos de cemento pueden contribuir a mejorar la capacidad de resistencia de las estructuras ante eventos s\u00edsmicos.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Por ejemplo, la atenuaci\u00f3n s\u00edsmica de 1.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "492 se logr\u00f3 en un estudio utilizando elementos finitos y considerando ejes cartesianos.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "El a\u00f1o 2018 marc\u00f3 un hito en la industria cementera argentina con avances significativos en la producci\u00f3n de cemento.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Cementos Argentinos se destac\u00f3 como uno de los principales actores en la producci\u00f3n y suministro de cemento en el pa\u00eds.",
+        "tokens": [
+            {
+                "Argentinos": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "En el campo de la investigaci\u00f3n, se han utilizado aproximadamente 4.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "526 ecuaciones trigonom\u00e9tricas para comprender mejor el comportamiento del cemento en diferentes condiciones y aplicaciones.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "El curado acelerado, que implica un proceso de curado m\u00e1s r\u00e1pido del cemento, se ha utilizado en alrededor del 40% de los casos para acelerar el desarrollo de resistencia y permitir un tiempo de construcci\u00f3n m\u00e1s eficiente.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La producci\u00f3n de hormigones modificados ha alcanzado los 12.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "000 millones, lo que demuestra la creciente demanda y la diversidad de aplicaciones de este material.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Los hormigones modificados ofrecen propiedades especiales, como mayor resistencia, durabilidad o capacidad de aislamiento.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La adici\u00f3n de pol\u00edmeros, en una proporci\u00f3n de aproximadamente 32, ha sido una estrategia para mejorar las propiedades del cemento.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Los pol\u00edmeros brindan mayor flexibilidad, adherencia y resistencia a la tracci\u00f3n.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En la investigaci\u00f3n de cemento, se han utilizado alrededor de 24.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "200 ecuaciones logar\u00edtmicas para analizar y predecir el comportamiento del material en diferentes situaciones y condiciones de carga.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Desde su invenci\u00f3n en 1944, el cemento ha sido fundamental para la construcci\u00f3n de estructuras y ha soportado cargas y momentos flectores significativos.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En el an\u00e1lisis estructural, se han considerado 12 puntos nodales para evaluar las tensiones y deformaciones en las estructuras de cemento.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La funci\u00f3n hiperb\u00f3lica de Hamada, una herramienta matem\u00e1tica, ha sido utilizada para describir y modelar el comportamiento del cemento en ciertos escenarios.",
+        "tokens": [
+            {
+                "Hamada": "PER"
+            }
+        ]
+    },
+    {
+        "text": "La elecci\u00f3n adecuada de agregados finos es fundamental para obtener un cemento de calidad.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Un valor t\u00edpico es de 0,042, que representa la fracci\u00f3n de agregado fino en la mezcla.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En los estudios de durabilidad del cemento, se han utilizado alrededor de 27 probetas curadas para evaluar la resistencia y el comportamiento del material frente a diferentes condiciones ambientales y de carga.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Estas probetas son muestras representativas del cemento que se someten a diferentes pruebas y ensayos para analizar su resistencia a la compresi\u00f3n, resistencia a la tracci\u00f3n, absorci\u00f3n de agua y resistencia al desgaste.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La curaci\u00f3n de las probetas es un proceso importante que permite simular las condiciones de exposici\u00f3n del cemento en situaciones reales.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Las probetas se someten a un r\u00e9gimen de curado espec\u00edfico, que puede incluir la inmersi\u00f3n en agua, la aplicaci\u00f3n de temperaturas controladas o la exposici\u00f3n a la humedad y la temperatura ambiente durante un per\u00edodo determinado.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Durante el proceso de curado, se monitorean regularmente las propiedades y caracter\u00edsticas de las probetas para evaluar su desarrollo de resistencia y resistencia a lo largo del tiempo.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Se realizan mediciones y pruebas peri\u00f3dicas, como ensayos de compresi\u00f3n y tracci\u00f3n, para determinar la resistencia y la durabilidad del cemento.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La utilizaci\u00f3n de aproximadamente 27 probetas curadas permite obtener una muestra representativa de los resultados y garantizar la precisi\u00f3n de las conclusiones.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Estas pruebas ayudan a los investigadores y profesionales de la construcci\u00f3n a comprender mejor las propiedades del cemento y a desarrollar estrategias para mejorar su durabilidad en diferentes entornos y condiciones.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Es importante destacar que el n\u00famero exacto de probetas utilizadas puede variar seg\u00fan el alcance del estudio y los requisitos espec\u00edficos de investigaci\u00f3n.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Los investigadores pueden realizar un an\u00e1lisis estad\u00edstico para determinar el tama\u00f1o de muestra adecuado que garantice la representatividad de los resultados obtenidos.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Adem\u00e1s, se pueden llevar a cabo m\u00faltiples repeticiones de las pruebas en diferentes lotes de probetas para confirmar la consistencia y la fiabilidad de los resultados.",
+        "tokens": [
+            {}
+        ]
+    }
+]

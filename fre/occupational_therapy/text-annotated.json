@@ -1,0 +1,210 @@
+[
+    {
+        "text": "L'ergoth\u00e9rapie est une profession de sant\u00e9 qui vise \u00e0 aider les personnes de tous \u00e2ges \u00e0 surmonter les obstacles qui les emp\u00eachent de participer pleinement \u00e0 leurs activit\u00e9s quotidiennes.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Au Canada, les services d'ergoth\u00e9rapie sont souvent offerts dans les centres locaux de services communautaires (CLSC).",
+        "tokens": [
+            {
+                "Canada": "LOC",
+                "CLSC": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Avec plus de 153 200 ergoth\u00e9rapeutes dans le monde, cette profession joue un r\u00f4le important dans la r\u00e9\u00e9ducation physique et mentale.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "La batterie d'\u00e9valuation des fonctions ex\u00e9cutives (FRAND) est un outil d'\u00e9valuation standardis\u00e9 utilis\u00e9 pour \u00e9valuer les fonctions ex\u00e9cutives chez les patients.",
+        "tokens": [
+            {
+                "FRAND": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "Les fonctions ex\u00e9cutives font r\u00e9f\u00e9rence \u00e0 un ensemble de comp\u00e9tences cognitives qui nous permettent de planifier, d'organiser, de r\u00e9guler nos comportements et de r\u00e9soudre des probl\u00e8mes.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "L'ergoth\u00e9rapeute peut utiliser cette batterie d'\u00e9valuation pour comprendre les d\u00e9ficits cognitifs qui affectent la performance du patient dans les activit\u00e9s quotidiennes.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "L'\u00e9chelle comportementale pour enfants d'\u00e2ge pr\u00e9scolaire (ECPA) est un autre outil d'\u00e9valuation couramment utilis\u00e9 par les ergoth\u00e9rapeutes pour \u00e9valuer les comp\u00e9tences des enfants dans les activit\u00e9s quotidiennes, en se concentrant sur les fonctions cognitives, sociales et \u00e9motionnelles.",
+        "tokens": [
+            {
+                "ECPA": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "La dysgraphie est un trouble d'apprentissage qui affecte la capacit\u00e9 d'un individu \u00e0 \u00e9crire de mani\u00e8re claire et lisible.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Les ergoth\u00e9rapeutes peuvent travailler avec les enfants atteints de dysgraphie pour am\u00e9liorer leur posture d'\u00e9criture, leur coordination oculomotrice, leur contr\u00f4le moteur fin et leur int\u00e9gration sensorielle.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Les enfants dyspraxiques, quant \u00e0 eux, ont des difficult\u00e9s \u00e0 planifier et \u00e0 coordonner leurs mouvements.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Les ergoth\u00e9rapeutes peuvent travailler avec ces enfants pour am\u00e9liorer leur rep\u00e9rage spatial, leur coordination motrice et leur planification des t\u00e2ches.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Selon les donn\u00e9es, il y a environ 43 230 enfants atteints de dyspraxie en France.",
+        "tokens": [
+            {
+                "France": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "Les ergoth\u00e9rapeutes jouent un r\u00f4le important dans le diagnostic et le traitement de cette condition, en utilisant des approches th\u00e9rapeutiques telles que la th\u00e9rapie par le jeu, la r\u00e9\u00e9ducation motrice fine et la stimulation sensorielle.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En utilisant des m\u00e9thodes d'\u00e9valuation standardis\u00e9es telles que la FRAND et l'ECPA, les ergoth\u00e9rapeutes peuvent mesurer les progr\u00e8s des patients et adapter leur plan de traitement en cons\u00e9quence.",
+        "tokens": [
+            {
+                "FRAND": "ORG",
+                "ECPA": "ORG"
+            }
+        ]
+    },
+    {
+        "text": "En travaillant en collaboration avec d'autres professionnels de la sant\u00e9, tels que les fonoaudiologues, les r\u00e9\u00e9ducateurs ou les sp\u00e9cialistes en analyse cin\u00e9siologique, les ergoth\u00e9rapeutes peuvent fournir une approche holistique et personnalis\u00e9e pour aider les patients \u00e0 atteindre leurs objectifs th\u00e9rapeutiques.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "En outre, l'ergoth\u00e9rapie peut \u00e9galement aider les personnes atteintes d'un handicap moteur s\u00e9v\u00e8re \u00e0 am\u00e9liorer leur fonctionnement physique et leur ind\u00e9pendance gr\u00e2ce \u00e0 des traitements orth\u00e9tiques, des adaptations environnementales et des techniques de manipulation fine.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Les ergoth\u00e9rapeutes peuvent \u00e9galement utiliser des outils de technologie assistive tels que des logiciels informatiques ou des mod\u00e8les ludiques pour aider les patients \u00e0 d\u00e9velopper leurs comp\u00e9tences cognitives et leur imagerie mentale.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Enfin, selon les donn\u00e9es, il y a environ 153 200 ergoth\u00e9rapeutes dans le monde.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Les ergoth\u00e9rapeutes peuvent travailler dans divers milieux de soins de sant\u00e9, notamment les CLSC, les h\u00f4pitaux, les \u00e9coles et les centres de r\u00e9adaptation.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Ils peuvent travailler en collaboration avec les familles, les groupes de soutien et les programmes de mentorat par les pairs pour favoriser  Les jeux vid\u00e9o peuvent \u00eatre utilis\u00e9s comme outil th\u00e9rapeutique pour am\u00e9liorer les comp\u00e9tences cognitives et motrices chez les enfants.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Une \u00e9tude r\u00e9cente a montr\u00e9 que les enfants atteints de dyspraxie ont am\u00e9lior\u00e9 leur rep\u00e9rage spatial de 44% apr\u00e8s avoir jou\u00e9 \u00e0 des jeux vid\u00e9o sp\u00e9cifiquement con\u00e7us pour cet objectif.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Comparativement, le groupe contr\u00f4le n'a connu qu'une am\u00e9lioration de 6%.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Les ergoth\u00e9rapeutes peuvent \u00e9galement utiliser des modules cognitifs pour aider les patients \u00e0 d\u00e9velopper leur voix int\u00e9rioris\u00e9e et leur capacit\u00e9 \u00e0 effectuer des t\u00e2ches de manipulation fine.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Pour les patients atteints d'un handicap moteur s\u00e9v\u00e8re, un traitement orth\u00e9tique peut \u00eatre n\u00e9cessaire pour soutenir leur fonctionnement physique.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Les donn\u00e9es indiquent qu'environ 987 patients n\u00e9cessitent un tel traitement en France.",
+        "tokens": [
+            {
+                "France": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "L'analyse cin\u00e9siologique est une m\u00e9thode courante utilis\u00e9e par les r\u00e9\u00e9ducateurs pour \u00e9valuer la qualit\u00e9 du mouvement et la coordination.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Environ 14 633 r\u00e9\u00e9ducateurs en France utilisent cette m\u00e9thode pour aider les patients \u00e0 d\u00e9velopper leurs comp\u00e9tences motrices.",
+        "tokens": [
+            {
+                "France": "LOC"
+            }
+        ]
+    },
+    {
+        "text": "L'imagerie mentale est une technique utile pour les patients souffrant de troubles moteurs, car elle permet de visualiser mentalement les mouvements.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Les logiciels informatiques offrent \u00e9galement des solutions pour aider les patients \u00e0 d\u00e9velopper leurs comp\u00e9tences motrices, notamment par le biais de mod\u00e8les ludiques.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Selon les donn\u00e9es, les d\u00e9penses mondiales pour les logiciels d'ergoth\u00e9rapie sont estim\u00e9es \u00e0 12 milliards de dollars.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Enfin, les orth\u00e8ses sont couramment utilis\u00e9es pour soutenir et stabiliser les articulations, offrant ainsi un soutien physique et am\u00e9liorant la fonctionnalit\u00e9.",
+        "tokens": [
+            {}
+        ]
+    },
+    {
+        "text": "Les donn\u00e9es indiquent que le taux d'efficacit\u00e9 des orth\u00e8ses est d'environ 75%.",
+        "tokens": [
+            {}
+        ]
+    }
+]
