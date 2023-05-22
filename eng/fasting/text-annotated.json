@@ -1,12 +1,12 @@
 [
     {
-        "text": "Anthropometric characteristics, such as body mass index (BMI), are often studied to assess the effects of fasting on weight and body composition.",
+        "text": "According to MEDLINE, the National Library of Medicine or NLM, anthropometric characteristics, such as body mass index or BMI and lean body mass or LBM, are often studied in randomised control trials od RCTs, and particularly in Mendelian randomised studies, to assess the effects of fasting on weight and body composition.",
         "tokens": [
             {}
         ]
     },
     {
-        "text": "Fasting can impact 45% of biological pathways, including energy homeostasis and the circadian clock system.",
+        "text": "As the results of Lifelines, a large multigenerational cohort study that includes over 167,000 participants or 10% of the northern population of the Netherlands, show, fasting can impact 45% of biological pathways, including energy homeostasis and the circadian clock system.",
         "tokens": [
             {
                 "45%": "PERCENT"
@@ -14,7 +14,7 @@
         ]
     },
     {
-        "text": "151,442 studies carried out have shown that fasting can lead to changes in hormone levels and metabolic processes.",
+        "text": "151,442 studies carried out in the framework of the Genome-wide association study or GWA study or GWAS, have shown that fasting can lead to changes in hormone levels and metabolic processes, as well as in intestinal stem cells or ISCs.",
         "tokens": [
             {
                 "151,442": "CARDINAL"
@@ -22,13 +22,13 @@
         ]
     },
     {
-        "text": "For example, ghrelin, known as the hunger hormone, may increase 0.",
+        "text": "For example, ghrelin, known as the hunger hormone according to the Common Terminology Criteria for Adverse Events or CTCAE, may increase 0.",
         "tokens": [
             {}
         ]
     },
     {
-        "text": "01 mg during fasting, while antidiabetic medications may be influenced by the altered glucose phenotype.",
+        "text": "01 mg during fasting, while antidiabetic medications may be influenced by the altered glucose phenotype, as demonstrated in the Oral Glucose Tolerance Test or OGTT carried out by the Department of Genetics of the University Medical Center Groningen or UMCG.",
         "tokens": [
             {
                 "01 mg": "QUANTITY"
@@ -36,13 +36,13 @@
         ]
     },
     {
-        "text": "Fasting has also been associated with changes in catecholamine concentrations, including epinephrine, which plays a role in regulating metabolism.",
+        "text": "Fasting has also been associated with changes in catecholamine concentrations, including epinephrine, which plays a role in regulating metabolism, as well as in EQTL or Expression quantitative trait loci, and Oligodendrocyte progenitor cells or OPCs.",
         "tokens": [
             {}
         ]
     },
     {
-        "text": "It has been studied in 233 essays in relation to chronic inflammation, cellular senescence, and conditions like fatty liver disease.",
+        "text": "It has been studied in 233 essays in relation to chronic inflammation, cellular senescence, and conditions like fatty liver disease and NCD or Newcastle disease.",
         "tokens": [
             {
                 "233": "CARDINAL"
@@ -56,7 +56,7 @@
         ]
     },
     {
-        "text": "002, are used to evaluate the impact of fasting on health outcomes.",
+        "text": "002, or Protein Sparing Modified Fast or PMSF are used to evaluate the impact of fasting on health outcomes.",
         "tokens": [
             {
                 "002": "CARDINAL"
