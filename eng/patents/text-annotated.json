@@ -1,6 +1,6 @@
 [
     {
-        "text": "The patent opposition procedure is an important mechanism in intellectual property law, allowing interested parties to challenge the validity or grant of a patent.",
+        "text": "As stated in the European Patent Bulletin, the patent opposition procedure is an important mechanism in intellectual property law, allowing interested parties to challenge the validity or grant of a patent.",
         "tokens": [
             {}
         ]
@@ -14,7 +14,7 @@
         ]
     },
     {
-        "text": "The total oppositions filed in a particular jurisdiction in 2019 were 14,755, indicating the significance of this procedure in addressing potential issues with patents.",
+        "text": "The total oppositions filed before the Board of Appeal Unit in a particular jurisdiction in 2019 were 14,755, indicating the significance of this procedure in addressing potential issues with patents.",
         "tokens": [
             {
                 "2019": "DATE",
@@ -23,19 +23,19 @@
         ]
     },
     {
-        "text": "During the opposition process, accelerated prosecution may be requested by either party to expedite the proceedings.",
+        "text": "During the opposition process, accelerated prosecution may be requested by either party to expedite the proceedings, especially in the framework of patents submitted by the International Society for Pharmaceutical Engineering or ISPE.",
         "tokens": [
             {}
         ]
     },
     {
-        "text": "Accidental disclosure of confidential information can occur during the opposition, and measures are in place to handle such situations to protect sensitive data.",
+        "text": "According to several WIPO standards, accidental disclosure of confidential information can occur during the opposition, and the World Intellectual Property Organisation may enforce measures to handle such situations to protect sensitive data.",
         "tokens": [
             {}
         ]
     },
     {
-        "text": "The instances of accidental disclosure encountered during the procedure were 456.",
+        "text": "The instances of accidental disclosure encountered during the Wayback Machine procedure filed under the Budapest Treaty on the International Recognition of the Deposit of Microorganisms for the Purposes of Patent Procedure in 2021 amounted to 456.",
         "tokens": [
             {
                 "456": "CARDINAL"
@@ -43,7 +43,7 @@
         ]
     },
     {
-        "text": "Accelerated prosecution refers to a request made by either party involved in the patent opposition procedure to expedite the progress of the proceedings.",
+        "text": "Accelerated prosecution asked for the Unified Patent Court or UPC refers to a request made by either party involved in the patent opposition procedure to expedite the progress of the proceedings.",
         "tokens": [
             {}
         ]
@@ -61,13 +61,13 @@
         ]
     },
     {
-        "text": "For instance, the party opposing the patent may want a faster resolution to address potential infringements or mitigate any negative impacts on their business.",
+        "text": "For instance, the party opposing the patent may want a faster resolution to address potential infringements or mitigate any negative impacts on their business unther the International Union for the Protection of New Varieties of Plants or UPOV Convention.",
         "tokens": [
             {}
         ]
     },
     {
-        "text": "On the other hand, the patent holder may request accelerated prosecution to promptly resolve the opposition and solidify their patent rights.",
+        "text": "On the other hand, the patent holder may request accelerated prosecution to promptly resolve the opposition and solidify their patent rights under the Rules of Procedure of the Enlarged Board of Appeal or RPEBA.",
         "tokens": [
             {}
         ]
@@ -85,13 +85,13 @@
         ]
     },
     {
-        "text": "The decision to grant accelerated prosecution rests with the competent national authority overseeing the opposition procedure.",
+        "text": "The decision to grant accelerated prosecution rests with the competent national authority overseeing the opposition procedure and the Examination Secretariat.",
         "tokens": [
             {}
         ]
     },
     {
-        "text": "The authority will assess the request based on various factors, such as the complexity of the case, the urgency of resolving the opposition, and the availability of resources to handle an accelerated timeline.",
+        "text": "The authority will assess the request based on various factors, such as the complexity of the case, the urgency of resolving the opposition, and the availability of resources to handle an accelerated timeline, and then draft a International preliminary examination report or IPER.",
         "tokens": [
             {}
         ]
