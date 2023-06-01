@@ -2,29 +2,30 @@
 
 This repository contains materials and code used to evaluate the SmarTerp CAI system and some of the results obtained in the process.
 
-This evaluation is ongoing; take any results cautiously as they are still provisional, and more tests and revisions are needed. 
+This evaluation is ongoing; *take any results cautiously as they are still provisional*, and more tests and revisions are needed. 
 
 
 ## Task description
 ### Language selection
+
 The evaluation is currently being performed for the following languages:
-English
-Spanish
-Italian
-French
-German
+- English
+- Spanish
+- Italian
+- French
+- German
+- 
 Not all features are ready to be evaluated in all languages at this point in time; this benchmark will be updated as they become ready.
 
 ### Topic selection
 We started evaluating the system, mimicking the typical workflow we can expect from conference interpreters. In the first place, the interpreter has to gather information related to the session topic, possibly the agenda with the names of the participants in the session and several documents about the contents that will be discussed in the interpreting session.
 
 We chose the following topics trying to cover diverse situations where interpreters can benefit from the system's assistance:
-Boring (Tunnel Boring Machines)
-Concrete
-Fasting (Therapeutical fasting)
-Occupational therapy
-Patents
-
+- Boring (Tunnel Boring Machines)
+- Concrete
+- Fasting (Therapeutical fasting)
+- Occupational therapy
+- Patents
 
 ### Glossary generation
 Once the topics defined, we searched the Internet for documentation and created glossaries for each of them in all the evaluated languages. In total, we documented, generated and reviewed a total of 23 session glossaries (Patents has only been evaluated in ENG, FRA and DEU, the three official working languages of the European Patents Office. 
