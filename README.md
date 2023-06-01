@@ -14,7 +14,7 @@ The evaluation is currently being performed for the following languages:
 - Italian
 - French
 - German
-- 
+
 Not all features are ready to be evaluated in all languages at this point in time; this benchmark will be updated as they become ready.
 
 ### Topic selection
