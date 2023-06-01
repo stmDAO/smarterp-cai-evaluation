@@ -50,19 +50,25 @@ Then we found out about the Bark model, which is a mix between existing TTS mode
 We generated 20 audio samples for each session on each language, for a total of about 60h of audio. We tried to make each audio piece as heterogeneous as possible, mixing different speakers at the sentence level.
 
 ### Evaluation execution
+Our system generates a language model with the documentation provided by the interpreter with the objective of tailoring an ASR component to the particular corpus of an interpreting session. This task was performed for each of the 23 glossaries created.
 
+In our system, each session is handled by a worker that runs the ASR system in tandem with some NLP components that search for matches of terms existing in the glossary, named entities and numeric entities. For the performing of the evaluation, there workers were spawned as needed and kept up the necessary time.
 
-## Dataset
-### Materials
-### Key aspects
+With the current code that orchestrates the audio submission and result gathering, the benchmark execution is performed sequentially. This limitation is a bottleneck that limits the size of the corpora for the benchmark, and parallelization is an ongoing task. The system consumes audio in real-time, so the evaluation of corpora of ~60h of audio takes the same amount of time.
 
 ## Experimental setup
 ### Environment
+For the server side, the regular SmarTerp CAI infrastructure where used. A specially crafted tool for sending audio was developed for the client side, as the technician console works on the browser.
+
 ### Tools
+Spacy for NER annotation
+Bark generative model for audio synthesis
 
 ## Evaluation
-
+[pending]
 
 ## Comparison
+[pending]
 
 ## Final notes
+[pending]
