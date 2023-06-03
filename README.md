@@ -78,7 +78,7 @@ Our system tries to provide assistance with a subset of the words that the ASR c
 
 The critical question here is not what the general WER result is, but which words are the ones that need to be accurately recognised, taking into account that we can define the words that are probably going to be useful for interpreters. 
 
-With that in mind, we modelled the evaluation as a simple binary classification: glossary terms and other words. The following metrics where then calculated: 
+With that in mind, we modelled the evaluation as a simple binary classification: glossary terms and other words. The following metrics were then calculated: 
 - Precision
 - Recall
 - F1 score
