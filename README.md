@@ -23,19 +23,19 @@ We started evaluating the system, mimicking the typical workflow we can expect f
 We chose the following topics trying to cover diverse situations where interpreters can benefit from the tool's assistance:
 - Boring (Tunnel Boring Machines)
 - Concrete
-- Fasting (Therapeutical fasting)
+- Fasting (Therapeutic fasting)
 - Occupational therapy
 - Patents
 
 ### Glossary generation
-Once the topics defined, we searched the Internet for documentation and created glossaries for each of them in all the evaluated languages. In total, we documented, generated and reviewed a total of 23 session glossaries (Patents has only been evaluated in ENG, FRA and DEU, the three official working languages of the European Patents Office. 
+Once the topics were defined, we searched the Internet for documentation and created glossaries for each of them in all the evaluated languages. In total, we documented, generated and reviewed a total of 23 session glossaries (Patents has only been evaluated in ENG, FRA and DEU, the three official working languages of the European Patents Office. 
 
 This part of the evaluation process was made by a professional interpreter using the SmarTerp-prep tool, as human expertise was crucial for establishing glossaries and documentation as a gold standard.
 
 ### Speech generation
 To evaluate the system, we also needed a speech for each of our topics in all the evaluation languages. 
 
-As writing the speeches ourselves could have biased the evaluation (we had already created the glossaries and searched for the documentation), we decided to use generative ML models to create the speeches. In particular, we used ChatGPT to generate the text documents referenced in the subsequent tasks. The ChatGPT prompt was fed with fragments of the documents, and also we asked to create content using some of the terms we included in the glossaries. 
+As writing the speeches ourselves could have biassed the evaluation (we had already created the glossaries and searched for the documentation), we decided to use generative ML models to create the speeches. In particular, we used ChatGPT to generate the text documents referenced in the subsequent tasks. The ChatGPT prompt was fed with fragments of the documents, and also we asked to create content using some of the terms we included in the glossaries. 
 
 We also asked to include numbers, dates and other Named Entities in the speeches generated, as we are trying to evaluate not only terms in the generated glossaries but also Named Entities.
 
@@ -46,12 +46,12 @@ We tried to use models from the Coqui TTS framework, but there was only good sup
 
 Then we found out about the Bark model, which is a mix between existing TTS models and generative (GPT like) models. We decided that this generation tool was better to try to evaluate the system, as we can cover a lot of different accents, prosodies and even ambient noise. 
 
-We generated 20 audio samples for each session on each language, for a total of about 60 hours of audio. We tried to make each audio fragment as heterogeneous as possible, mixing different speakers at the sentence level.
+We generated 20 audio samples for each session in each language, for a total of about 60 hours of audio. We tried to make each audio fragment as heterogeneous as possible, mixing different speakers at the sentence level.
 
 ### Evaluation execution
 Our system generates a language model with the documentation provided by the interpreter with the objective of tailoring an ASR component to the particular corpus of an interpreting session. This task was performed for each of the 23 glossaries created.
 
-In our system, each session is handled by a worker that runs the ASR system in tandem with some NLP components that search for matches of terms included in the glossary, and named entities (including numeric entities). For the performing of the evaluation, there workers were launched as needed and kept up and running the necessary time.
+In our system, each session is handled by a worker that runs the ASR system in tandem with some NLP components that search for matches of terms included in the glossary, and named entities (including numeric entities). For the performance of the evaluation, the workers were launched as needed and kept up and running the necessary time.
 
 With the current code that orchestrates the audio submission and result gathering, the benchmark execution is performed sequentially. This limitation is a bottleneck that limits the size of the corpora for the benchmark, and parallelization is an ongoing task. The system consumes audio in real-time, so the evaluation of corpora of ~60 hours of audio takes the same amount of time.
 
@@ -72,7 +72,7 @@ For the server side, the regular SmarTerp-CAI infrastructure was used. A special
 # Terms evaluation
 The typical approach to measuring the precision of an Automatic Speech Recognition system (and also for the opposite task, Text-to-Speech) is to calculate the WER (word error rate) metric. This metric is similar to the Levenshtein distance but takes words into account, not characters or phonemes.
 
-Although the WER metric is an excellent way to measure a ASR component, our system works as a whole, and the ASR component is just the first step in a longer process. On the other hand, the WER metric treats all the words on an equal footing, and in our system not all the words have the same relevance. 
+Although the WER metric is an excellent way to measure an ASR component, our system works as a whole, and the ASR component is just the first step in a longer process. On the other hand, the WER metric treats all the words on an equal footing, and in our system not all the words have the same relevance. 
 
 Our system tries to provide assistance with a subset of the words that the ASR component needs to be able to recognise, but the fact that other words that are not important for the interpreter are not recognised is not relevant. 
 
