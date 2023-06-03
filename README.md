@@ -53,7 +53,7 @@ Our system generates a language model with the documentation provided by the int
 
 In our system, each session is handled by a worker that runs the ASR system in tandem with some NLP components that search for matches of terms included in the glossary, and named entities (including numeric entities). For the performance of the evaluation, the workers were launched as needed and kept up and running the necessary time.
 
-With the current code that orchestrates the audio feeding and result gathering, the evaluation execution is performed sequentially. This limitation is a bottleneck that limits the size of the corpora for the benchmark, and parallelization is an ongoing task. The system consumes audio in real-time, so the evaluation of corpora of ~60 hours of audio takes the same amount of time.
+With the current code that orchestrates the audio feeding and result gathering, the evaluation execution is performed sequentially. This limitation is a bottleneck that limits the size of the corpora for the evaluation, and parallelization is an ongoing task. The system consumes audio in real-time, so the evaluation of corpora of ~60 hours of audio takes the same amount of time.
 
 ## Experimental setup
 ### Environment
