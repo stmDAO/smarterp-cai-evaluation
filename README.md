@@ -59,7 +59,7 @@ With the current code that orchestrates the audio submission and result gatherin
 ### Environment
 For the server side, the regular SmarTerp-CAI infrastructure was used. A specially crafted tool for sending audio was developed for the client side, as the technician console that sends audio streams is powered by WebRTC technology running in the browser.
 
-### Tools
+### Software used
 - Spacy for NER annotation
 - Coqui TTS for regular speach synthesis
 - Bark generative model for audio synthesis
