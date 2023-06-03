@@ -61,9 +61,9 @@ For the server side, the regular SmarTerp-CAI infrastructure was used. A special
 
 ### Software used
 - Spacy for NER annotation
-- Coqui TTS for regular speach synthesis
+- Coqui TTS for regular speech synthesis
 - Bark generative model for audio synthesis
-- ChatGPT for audio generation
+- ChatGPT for text generation
 
 ## Evaluation
 
