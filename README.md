@@ -60,11 +60,34 @@ With the current code that orchestrates the audio submission and result gatherin
 For the server side, the regular SmarTerp CAI infrastructure where used. A specially crafted tool for sending audio was developed for the client side, as the technician console works on the browser.
 
 ### Tools
-Spacy for NER annotation
-Bark generative model for audio synthesis
+- Spacy for NER annotation
+- Coqui TTS for regular speach synthesis
+- Bark generative model for audio synthesis
 
 ## Evaluation
-[pending]
+
+# Delay evaluation
+
+# Terms evaluation
+The typical approach to measuring the precision of an Automatic Speach Recognition system (and also for the inverse task, Text-to-Speach) is to calculate the WER (word error rate) metric. This metric is similar to the Levenshtein distance but takes words into account, not characters or phonemes.
+
+The WER metric is still an excellent way to measure our own ASR component, but our system works as a whole, and the ASR component is just the first step in a longer process. Also, the WER metric treats all the words equally, and we're not working with that premise. 
+
+Our system tries to provide assistance with a subset of the words that the ASR component needs to be able to recognize, but we don't care if any other terms are correctly identified. 
+
+The critical question is not what is general WER result but which words are the ones that need to be correctly recognized, knowing that we can define the ones that are probably going to be useful for interpreters. 
+
+With that in mind, we modelled the evaluation as a simple binary classification: glossary terms and other words. The following metrics where then calculated: 
+- Precision
+- Recall
+- F1 score
+
+
+# Named entities evaluation
+[TODO]
+
+# Numbers evaluation
+[TODO]
 
 ## Comparison
 [pending]
