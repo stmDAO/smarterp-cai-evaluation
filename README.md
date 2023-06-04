@@ -98,7 +98,7 @@ With that in mind, we modelled the evaluation as a simple binary classification:
 - Recall
 - F1 score
 
-Preliminary results looks as follow:
+Preliminary results look as follow:
 
 ![Graph of precision by language](https://github.com/stmDAO/smarterp-cai-evaluation/blob/main/misc/readme/precision_eval_langs.png)
 ![Graph of recall by language](https://github.com/stmDAO/smarterp-cai-evaluation/blob/main/misc/readme/recall_eval_langs.png)
