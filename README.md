@@ -74,7 +74,7 @@ We manually annotated the start and end times for the terms selected to measure 
 In the system, several processing windows can influence the timing of the final term identification. Audio packets are sent every 0.2s; the ASR inferences are generated every 0.5s - 1s, and other network and execution delays can also influence the term match.
 The recorded samples show the following timing distribution:
 
-[IMG]
+![Graph of latency samples](https://github.com/stmDAO/smarterp-cai-evaluation/blob/main/misc/readme/latency_eval_2500.png)
 
 And the results show this:
 
@@ -94,6 +94,11 @@ With that in mind, we modelled the evaluation as a simple binary classification:
 - Recall
 - F1 score
 
+Preliminary results looks as follow:
+
+![Graph of precision by language](https://github.com/stmDAO/smarterp-cai-evaluation/blob/main/misc/readme/precision_eval_langs.png)
+![Graph of recall by language](https://github.com/stmDAO/smarterp-cai-evaluation/blob/main/misc/readme/recall_eval_langs.png)
+![Graph of F1 by language](https://github.com/stmDAO/smarterp-cai-evaluation/blob/main/misc/readme/f1_eval_langs.png)
 
 # Named entities evaluation
 [TODO]
