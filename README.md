@@ -67,7 +67,18 @@ For the server side, the regular SmarTerp-CAI infrastructure was used. A special
 
 ## Evaluation
 
-# Delay evaluation
+# Latency evaluation
+For interpreters, the time a result takes to appear in the application interface is a critical requirement to make the suggestions helpful. Correct suggestions that arrive too late to the user are useless, so latency is a crucial system metric.
+For measuring latency, we took a subset (10 for the moment) of the terms annotated in the session glossaries and an audio reference synthesis for those parts of the sessions. 
+We manually annotated the start and end times for the terms selected to measure latency and then evaluated the same fragment 250 times. The start and end point of the fragment evaluation was random, starting between 2 and 10 seconds before the term began to be pronounced. 
+In the system, several processing windows can influence the timing of the final term identification. Audio packets are sent every 0.2s; the ASR inferences are generated every 0.5s - 1s, and other network and execution delays can also influence the term match.
+The recorded samples show the following timing distribution:
+
+[IMG]
+
+And the results show this:
+
+[DATA]
 
 # Terms evaluation
 The typical approach to measuring the precision of an Automatic Speech Recognition system (and also for the opposite task, Text-to-Speech) is to calculate the WER (word error rate) metric. This metric is similar to the Levenshtein distance but takes words into account, not characters or phonemes.
