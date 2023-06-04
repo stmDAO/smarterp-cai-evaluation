@@ -67,7 +67,7 @@ For the server side, the regular SmarTerp-CAI infrastructure was used. A special
 
 ## Evaluation
 
-# Latency evaluation
+### Latency evaluation
 For interpreters, the time a result takes to appear in the application interface is a critical requirement to make the suggestions helpful. Correct suggestions that arrive too late to the user are useless, so latency is a crucial system metric.
 For measuring latency, we took a subset (10 for the moment) of the terms annotated in the session glossaries and an audio reference synthesis for those parts of the sessions. 
 We manually annotated the start and end times for the terms selected to measure latency and then evaluated the same fragment 250 times. The start and end point of the fragment evaluation was random, starting between 2 and 10 seconds before the term began to be pronounced. 
@@ -80,7 +80,7 @@ And the results show this:
 
 [DATA]
 
-# Terms evaluation
+### Terms evaluation
 The typical approach to measuring the precision of an Automatic Speech Recognition system (and also for the opposite task, Text-to-Speech) is to calculate the WER (word error rate) metric. This metric is similar to the Levenshtein distance but takes words into account, not characters or phonemes.
 
 Although the WER metric is an excellent way to measure an ASR component, our system works as a whole, and the ASR component is just the first step in a longer process. On the other hand, the WER metric treats all the words on an equal footing, and in our system not all the words have the same relevance. 
@@ -100,10 +100,10 @@ Preliminary results looks as follow:
 ![Graph of recall by language](https://github.com/stmDAO/smarterp-cai-evaluation/blob/main/misc/readme/recall_eval_langs.png)
 ![Graph of F1 by language](https://github.com/stmDAO/smarterp-cai-evaluation/blob/main/misc/readme/f1_eval_langs.png)
 
-# Named entities evaluation
+### Named entities evaluation
 [TODO]
 
-# Numbers evaluation
+### Numbers evaluation
 [TODO]
 
 ## Comparison
