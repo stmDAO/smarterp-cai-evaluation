@@ -77,8 +77,12 @@ The recorded samples show the following timing distribution:
 ![Graph of latency samples](https://github.com/stmDAO/smarterp-cai-evaluation/blob/main/misc/readme/latency_eval_2500.png)
 
 And the results show this:
+- Mean: 1.34357 s
+- Median: 1.318697 s
+- Standard deviation: 0.518774 s
+- Variance: 0.269126 s
 
-[DATA]
+We typically consider a latency of less than 1.5s desired and 2s as the upper limit acceptable. We currently can deliver more than 60% of the results in less than 1.5s, and only less than 9% take more than 2s to be delivered.
 
 ### Terms evaluation
 The typical approach to measuring the precision of an Automatic Speech Recognition system (and also for the opposite task, Text-to-Speech) is to calculate the WER (word error rate) metric. This metric is similar to the Levenshtein distance but takes words into account, not characters or phonemes.
