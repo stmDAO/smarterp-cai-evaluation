@@ -68,21 +68,21 @@ For the server side, the regular SmarTerp-CAI infrastructure was used. A special
 ## Evaluation
 
 ### Latency evaluation
-For interpreters, the time a result takes to appear in the application interface is a critical requirement to make the suggestions helpful. Correct suggestions that arrive too late to the user are useless, so latency is a crucial system metric.
+For interpreters, the time a Soft Visual Aid (SVA) takes to appear in the application interface is a critical requirement to make the promptings helpful. Correct suggestions that arrive too late are useless, so latency is a crucial system metric.
 For measuring latency, we took a subset (10 for the moment) of the terms annotated in the session glossaries and an audio reference synthesis for those parts of the sessions. 
 We manually annotated the start and end times for the terms selected to measure latency and then evaluated the same fragment 250 times. The start and end point of the fragment evaluation was random, starting between 2 and 10 seconds before the term began to be pronounced. 
-In the system, several processing windows can influence the timing of the final term identification. Audio packets are sent every 0.2s; the ASR inferences are generated every 0.5s - 1s, and other network and execution delays can also influence the term match.
+In the system, several processing windows can influence the timing of the final term identification. Audio packets are sent every 0.2 s; the ASR inferences are generated every 0.5 s - 1 s, and other network and execution delays can also influence the term match.
 The recorded samples show the following timing distribution:
 
 ![Graph of latency samples](https://github.com/stmDAO/smarterp-cai-evaluation/blob/main/misc/readme/latency_eval_2500.png)
 
-And the results show this:
+This are the results:
 - Mean: 1.34357 s
 - Median: 1.318697 s
 - Standard deviation: 0.518774 s
 - Variance: 0.269126 s
 
-We typically consider a latency of less than 1.5s desired and 2s as the upper limit acceptable. We currently can deliver more than 60% of the results in less than 1.5s, and only less than 9% take more than 2s to be delivered.
+We typically consider a latency of less than 1.5 s desired and 2 s as the upper limit acceptable. We currently can deliver more than 60% of the results in less than 1.5 s, and only less than 9% take more than 2 s to be delivered.
 
 ### Terms evaluation
 The typical approach to measuring the precision of an Automatic Speech Recognition system (and also for the opposite task, Text-to-Speech) is to calculate the WER (word error rate) metric. This metric is similar to the Levenshtein distance but takes words into account, not characters or phonemes.
