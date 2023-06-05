@@ -67,6 +67,8 @@ For the server side, the regular SmarTerp-CAI infrastructure was used. A special
 
 ## Evaluation
 
+
+
 ### Latency evaluation
 For interpreters, the time a Soft Visual Aid (SVA) takes to appear in the application interface is a critical requirement to make the promptings helpful. Correct suggestions that arrive too late are useless, so latency is a crucial system metric.
 For measuring latency, we took a subset (10 for the moment) of the terms annotated in the session glossaries and an audio reference synthesis for those parts of the sessions. 
@@ -103,6 +105,15 @@ Preliminary results look as follow:
 ![Graph of precision by language](https://github.com/stmDAO/smarterp-cai-evaluation/blob/main/misc/readme/precision_eval_langs.png)
 ![Graph of recall by language](https://github.com/stmDAO/smarterp-cai-evaluation/blob/main/misc/readme/recall_eval_langs.png)
 ![Graph of F1 by language](https://github.com/stmDAO/smarterp-cai-evaluation/blob/main/misc/readme/f1_eval_langs.png)
+
+#### Terms frequency
+As we previously commented on the suitability of using WER as a metric, by definition, the terminologies interpreters need are words or word combinations that are rare in the languages interpreted.
+
+In generic ASR systems is pretty tricky to have good results for obscure terminology used in some specialized fields. That's why we decided to adapt the language model used in our ASR component for each session and treat the interpreter's provided documentation as the best possible resource for that task. 
+
+Measuring absolute frequency for words in a language is a difficult task; each corpus has some level of variability in that sense, and even inside the same corpus, language usage varies depending on the time of usage, location, etc... Even though, as a general approach, we tried to measure the frequency of the terms used in the evaluation using the Google Ngram corpus; we got these results measuring the position of the words in the whole list for 1-grams, 2-grams and 3-grams:
+
+[GRAPH]
 
 ### Named entities evaluation
 [TODO]
